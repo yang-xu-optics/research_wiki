@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Claudian harness state (per-machine, not vault content)
+.claudian/
+
+# Obsidian — keep shared config, ignore per-machine state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Editor / tooling
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs / scratch
+*.log
