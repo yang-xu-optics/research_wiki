@@ -8,612 +8,11 @@
     "dc-device-full-fabrication": 35,
     "fab-flow-literature": 7
   },
-  "image_jobs": 5150,
-  "images_downloaded_new": 3,
-  "images_existing": 0,
-  "image_failures_count": 5147,
-  "image_failures": [
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/19FC3DFA-A201-4F48-AE8D-41A0051FD6BE_2/sXClcSaz4bRo0fR3paPxYaZh6MplgFySmDAZCLLLlpoz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-008.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/19BF97A3-EE9B-44E6-9A44-D6884A560E1C_2/2Ky2sNlsWRx0ng8Js3AQs0eggpzX4eOEvzo1xo9woOAz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-022.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/09F9278B-B0C7-4D4E-A520-37680DB6F97F_2/tZg8Eyd6Wbsf5JUwoaDsxOL3MaHMyIbQyzml4DZCDOsz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-005.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/F9BBFEDD-1DFA-4AEF-8CFB-FBE698DFCCE8_2/qqMy15HmtmXT8I7Ftk9i9zY50IymzUsJnB29ZNFpqVIz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-002.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/5FA7EA3E-E9CF-48D1-A1E5-468FD112C604_2/xUw2y8b1vusdTV4yhRxjNAxmycGHA7sPxDWicXjuizgz/Image.heic",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-003.heic",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/F9F80759-FA5C-411A-AF84-41A2F20252FB_2/QbjKpaaOIx0VZ9kqHUOJEmk0mxhLJ3ppz1R9Mz2rLbMz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-020.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/59CCD8EC-EE85-4F2C-B201-0EE44D0DB26D_2/0ZQhExvVeNx6tNdvQJigo20Ikbb5a73RY5ZK1Kuyfjoz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-017.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/1894019F-8B25-4EF7-93D3-58B8A16418CF_2/TOfsvt3l8XPjRjw0CD3gQrqxZCBkM9IvaZnyn0m9chgz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-010.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/C4EB4DE4-0C51-43E5-98D6-4B2CBC74F61A_2/Z7V7aeuwa4IQUHdX9wu47GVvni1fIRmbSLaYC2h6fTAz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-006.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/E1095375-00B7-46B8-84BC-7292520328AB_2/5cRzlDSZYLU2KWz5g2FDXgkoBJ7gxyWbsBgDKwb3rgAz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-024.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/3147FC7E-5051-481D-BBE2-9A528DAA933B_2/u8J3CrI3cYZ04OChTylRNldfwN1KzHcw40ISwbp7aUoz/Image.heic",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-004.heic",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/7EAE4AA8-1A59-4095-82E6-3CEB639757DE_2/dyYaK00dILrqm5fVySYsLFzYqGg9InA0bp9rYe7PmLEz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-011.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/C7784397-E31B-4C06-9CE2-8EED8115BD73_2/Ly93DzhSG9KALzdyt6B2KXgyCbSVM9cG9jzR80tBxUMz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-009.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/4BA9DAC9-16BC-4709-9A27-106894A2805D_2/7v3sZz6WYygy2PKQm4vcDpcO1UShCltuTM6O7sn0DpUz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-007.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/B2325CD3-C8FB-4750-859B-B225B6153B45_2/wwrWrAtzwmbm78j6WRVCRLzamKieiEO9ZIZLfxZmyzQz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-001.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/EA1113D1-1970-4C3D-A21E-9F42ABBD99CC_2/8mEL2vYx8j9xu2na7QhyvI6yIyYG8LtKw37PxPwHfwAz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-021.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/7F96DCA7-94CC-4E74-88E8-5F6BAE067265_2/jGoOdwl7HAPeMGBYlbjQibxvjdhh6paRPv56T3O7WOkz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-018.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/20CC2081-AA4A-4200-A5ED-8B4BDD799C4C_2/vkI5vSKC4iCFMbx0cboUN0SQ9oQo4ypp3aoUFhdk0KIz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-016.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/178AD96E-75DD-4BAA-BADD-29C2BF0A03D1_2/aJRyr6G958exvy2t8Shs0PnDvqX7kOTlLsvzBipb8Lsz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-025.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/0D8AF1E9-156E-4613-8A1B-36F9E519E6D1_2/ueyF2NrPlRBiHueC1gE29qh7SZkgmoap5Yrmhxf3soEz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-015.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/80909E46-F097-46B7-B505-59B28405844F_2/xwiwHVvVyGy5mN9ABPDeyXjZqNRCLSYelhmvyYznp7Uz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-012.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/718C0C90-5148-4412-9950-307EAA541521_2/4vm2nTFf5wxJhehHCY7WB8t2TX7lOp5b6ia1KvJWhWUz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-019.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/2E100083-8344-4100-9F8F-5DB7FB41AC22_2/s1BIGaRWmWNfR5h9qHOLaab08WpFIxk6uMl9xUoFpHcz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-013.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/266764F9-36E3-4DB0-9780-A0E0AFE804DB_2/PpefNYm7hMkNziucz216UKYCMNMCOsfXM38wVDwe8p4z/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-023.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/A3407352-B202-4D5F-A807-DDC18CCD7694_2/U4xEwTBC33GIBfiw4oyQitTI8ieQFtmNgGzmI5NuQHUz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-028.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/D64A5D0E-DDF2-436B-907F-35060C09B0F6_2/FzozdQ0B2VWLrc2ZUI37deis5kYLSV6nZzNNKgWxk4gz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-026.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/DEC3E27D-2CD9-4E30-9CCF-CBED1E4C54A6_2/NHPd6Xl3e9w55yLyUsjrJfeBeY3YyxaZvnUFiVelpOkz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-029.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/A366679D-158A-495E-B6CF-B29AB890CE0B_2/NoQkwfixBBgK4UnhCEWxR4h28EE0Vh4s07t4xogSy9Iz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-027.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/01E7D8AC-748C-402F-BB33-311B43B1246A_2/Q0UJ0lX0pxsL0yibUA2jQoDFRDnDTmLiiMa4FMyUh1Ez/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-031.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/7735955B-542F-4505-B580-59EB62A7EB44_2/l44T7WfewGXj1LoVSiv2LKUeiFN5ZhIE12KF2LEib6Yz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-030.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/8D17136C-1A9E-4713-A861-89DE92E5D209_2/IJdXe6kgBABHc2c6enqqRD0TzBrBzOwhQpzKtDayyBAz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-035.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/BB5C15D5-8250-40BD-9EE0-94D22050BF5A_2/Teicv16LJpVBrSm8YFkJFdy3CN17NbzVgI3wr4MJUMUz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-036.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/F4088ED8-ED4A-4B60-94B4-738A47ABE6F8_2/STf8yUTut7xXJxsaQv6IVr5i5VFeL0SKyIfhHkcxhMcz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-033.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/4E44F9A6-4DAA-4098-B784-BEF3B37AA298_2/176tlZFLtUHBnh6sO9xa4xrx4F7hNA8MHfbhtwcllm8z/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-032.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/D3B4F160-8BFD-4C29-AE70-65C48C5B2C54_2/m38HJh6MmA73rDqmpXzMRZjepyvNi2Ew9Tex09CECLkz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-002.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/DBEAEDEB-3156-4811-A524-1A4806B28BEC_2/Kid9VpHDcDcScJg8qFIEUYUlKXpBuAYqaS4nyN3QDUIz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-013.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/8D13728B-42C5-4787-BE0C-333103AA49D8_2/E1M1RxqooqsquvViRmNeIpBDXeY9gLhKMw0x4XaQuwYz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-009.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/B2971C21-822C-49B9-9703-E19DE9A44B75_2/mTMExhvy6g9zpMZsPr3RdEyCeri7sPsuyGhP0vQLLcAz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-003.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/90E9AE20-FDD2-43DF-97D4-1E6324E45408_2/xnTYQ1fTv21BADYqACmzGyeZl0KaBGFgHbmaxD9Ilycz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-005.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/985FF6DF-DA3D-4BD9-90E4-6CC810A92472_2/oKvYmmcNTXucRbdGWPDfOxCcLly0ro2X9ruBiyEgaRUz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-011.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/3D76DD48-7FD1-46B9-8B85-02C2E22CFD1A_2/MypqNszJESYAd2r9gj6cPwsMaa1Ftlmy3m0PR3V18Rcz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-006.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/00756364-E190-48B8-8EB4-6880A5DA3B6A_2/sZf5wy5TcfgAzOQtQWzJNYVkMfjdyW6udecjfrbOZg8z/Screenshot%202024-01-25%20at%209.19.03PM.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-010.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/AE1C063F-E4E7-4AEC-8C73-933D8B2E661A_2/brJZpqD4n1qMclZGCUeoFrxOXVuHPhIApHgmEErPIhcz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-004.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/248C5008-B0ED-4D67-B7CD-0F0123839621_2/gul0HR3GlcyRic5KpcfSzqCyDYwboECcyvAor27o5fIz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-014.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/57D3EE97-21ED-4300-B274-83E2B03905E3_2/PoWyGhqe6JdRO2TccUVdv1fypTnfVxIcVZgkQUtQbW4z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-016.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/903DA858-AE41-466F-9A6C-EDC1CDEABF49_2/pOthv1sSDgQnYPzUhbAy7pX7QKjGmu6lRpt9WD9CAGsz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-012.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/482902B5-E5F7-42C9-8285-3F8C74C93AD9_2/Hkq7JSp6skQIXe14w7xOVsPSEHM0NuB1t4C6EyheXiAz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-034.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/8682153D-7C99-4ADF-95DF-190A1F4CB749_2/bRfPWU7X2zyOebPyB8VLcb3LOKLeTiQKj6Hl04xiuVAz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-008.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/DF91709A-92FB-4672-9E52-1AA8624F0A3E_2/Br6yDu43ZNK9zKFvsO5U04kUhTdy9dF3M9yjP46AyVIz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-007.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/921F92F8-67C9-46FA-98F8-B503766C4F92_2/yJqrhqfOgTxcEYxLXR5yfplCSn0YxWpTmhVxGFojTncz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2023-11-1-etching-oxide-014.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/F9740F42-D645-4913-94CC-C7B1C33229B7_2/ZyKoSh5iVHJylsSxkHECtYTyfrHikwJqVQoU4bI2AKcz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-017.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/79898FC9-6907-4425-A03F-A2D56AE40916_2/rS4r9eH9vELzJtYojeGX3yCivKoy6c8njeVYyBxO2p8z/Loss%20plot%20for%20wall%20height1.5.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-008.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/5079830F-8D93-411F-B135-75CB59D8E18D_2/wOzWuGTFxlfk4eA6vyojhexb3KORm52n1PB5MUthFboz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-001.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/9F99C2CA-E8A0-4371-94DA-6EC2BB458592_2/2dpVxJCryPJDhYPp4Tvfsuu73euxUUSDNB4ey9m22Ugz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-002.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/4a8c56cf-aa03-2d38-84d7-5abbaf6826c4/RrXBBJmj4aUZCRyitIMv9ZQ5JvgNwQQrgklTHArGnloz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-003.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/33B239D9-6EC9-43D2-829B-4B29087FA9D5_2/N9CuWfyyxcf098YfGy1bp5TdYPRMlhWE0LVrr3oIF3sz/Loss%20plot%20for%20wall%20height1.125.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-007.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/57B31D0C-9105-4F71-9096-3F0DDAE76056_2/IP4h74qtHmuHjyCG1XCGlV3IpzheVTyfr6BWJVodFWsz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-003.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/3A4A8227-5126-4F7B-800A-7E5CA99EF03C_2/bXUfTgbTc2UKAnRyvv4qTw9WgGrVqyGVuGwtCE1cCOkz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-007.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/FB1F8399-0A63-4BBC-B814-A95DB6F94C74_2/C0PUfSSy40UAinF48U8bwZyRgdG06DcXX5coybmesucz/Loss%20plot%20for%20wall%20height0.375.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-005.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/99EDC558-D47B-48E1-9292-3724EEAC77C2_2/A6Oo1kkXzpQzoZCeyRR8wZdVl0YIiLIlnAChRVhjcH0z/Loss%20plot%20for%20wall%20height0.0.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-004.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/ecf1fd0f-6d21-4c03-eeab-4f157e5680d5/obyUXKIPxd9pJ3BfPkGMAKGjNkKcktxxpwrZnV2ShEAz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-004.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/BE3227B1-DF5C-4D1B-BE38-86D09B23381D_2/C6pBbaeh1y9MhbAzlyWOKXtrXR7vmdMAFq3qMiijxF8z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-008.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/aa7f82fa-5874-f04f-e3c0-ed4681c49d8c/A6Oo1kkXzpQzoZCeyRR8wZdVl0YIiLIlnAChRVhjcH0z/Loss%20plot%20for%20wall%20height0.0.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-002.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/7d9cb976-c1f8-555b-4917-8249acabbc18/8RlUZu6BvwQ8l8Ol02xbKaJvrmvkZ0C7HUYdzeFNs2Mz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-002.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/B4C8C698-9050-4E2A-B03B-0EB75D5CD12E_2/pvawyUMxXZNTGm7WjozaurLyqH7b6idaqfk4NOpfjeYz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-009.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/ae313411-bb3a-1ef8-bbce-de9765774057/NEFzW0exQw6ipboxXOy05bOx7HwdCeLYYkTfyAAY2oYz/Loss%20plot%20for%20wall%20height0.75.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-004.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/4f10fe47-01ee-79f7-964f-9f090215e123/C0PUfSSy40UAinF48U8bwZyRgdG06DcXX5coybmesucz/Loss%20plot%20for%20wall%20height0.375.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-003.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/21ced397-0d3e-146c-b690-23f35da162c2/N9CuWfyyxcf098YfGy1bp5TdYPRMlhWE0LVrr3oIF3sz/Loss%20plot%20for%20wall%20height1.125.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-005.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/7E8685DB-545B-4A08-8B8C-9BA05B63B0B2_2/0oODn1allmR7tLREgyn5zZ5qUyBhVqyyhvjiS6ov7DQz/Disperison%20plot%20for%20Height2.0.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-001.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/59231E6B-F90B-4063-BA7E-63E3926DC82E/e92faea1-163f-2c8b-c3c1-201aa5682555/rS4r9eH9vELzJtYojeGX3yCivKoy6c8njeVYyBxO2p8z/Loss%20plot%20for%20wall%20height1.5.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-04-gds-file-design-for-first-etched-svm-waveguides-006.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/F1331F5B-C29C-4310-BE5D-821DBD390276/AAE4C609-242D-4744-A5C1-5C1D12CB04F2_2/NEFzW0exQw6ipboxXOy05bOx7HwdCeLYYkTfyAAY2oYz/Loss%20plot%20for%20wall%20height0.75.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-02-bent-waveguide-loss-006.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/63aeca24-0d2e-6da2-81a9-17e1eb2beb00/Cqj9xYSrxa8JttzYIQ0QBM6ajSkS7hFBUzXZhbrJjagz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-001.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/B19A7D72-483A-43E8-B0E7-24EA12140E34_2/oSb0Bbp2O3dKfsz0B1iMpZDFcYC7pR0dmy0ku4LcTGAz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-001.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/EA65A635-7FC4-4440-858D-9409EA76774C/17F8B58B-B449-4EE7-858C-19FCA27675BC_2/D29xXmFOZKmHKmsAdYAFWykE0Qu9bJZqSp7ndNmUsRkz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-1-25-optimal-3-layer-dc-device-parameters-015.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/257BE42C-2AAE-453B-B73A-8274C608D149_2/zd7cxnhR4ddkPOw4gkDTlA6xZBwnwHMZvVVyPrdU114z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-011.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/75D9E445-709E-48B4-9FC7-A5FDDAAB0CB6_2/wSiHOqjz4FNQa0e04WBA05AThrsWd8Xk712LkLUowvMz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-010.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/EF76D15E-AA83-4E62-9C8C-0389C86FA471_2/JtxDE3CYwMyL6MdKG1BgEfs013W3bAaDe2rYaSp3EaYz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-012.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/0271fc2f-8c97-30c8-b578-f415100df683/6n6f8BB2Rkbfy7drGf5fqX46D5DlcQase1P6gfP8eCUz/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-009.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/2970c52e-c6bb-b928-e586-115674a74c3f/DxO7CNmkBFQdgemPboi504qb5tf2XKCoCPSGYxpA6VIz/Screenshot%202024-07-28%20at%203.18.55PM.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-007.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/b086f65a-553f-48df-3d2d-80d3ce34f70b/mzKXHF68qUpAKRjV6xpKvvqZ10AvJgj9boJv8NE6Hosz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-005.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/ee37a014-9923-fe4d-4209-4aa0b8a5c83c/0mwFz0xZu0MFh5TSdbWtgjupgR8aicERllW2pJZOOcYz/Screenshot%202024-07-28%20at%203.19.05PM.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-006.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/24FE4A07-302A-4DCA-8604-20E03C8F8EC0/b62698e5-39eb-b54a-568a-0261336efadc/s2yzkMgT9QGlSgGMUfxUvgrCZS4GfuC8tqeBIDFYAj0z/Photo%20from%20Library.jpeg",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-06-final-ln-dc-device-design-008.jpeg",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/3B866BE1-3DF5-4118-84ED-8E6FA3A4C546_2/vzseMFxfjvuf92CRISZhGPxK74Jbg5gb3cjBRqg1AGoz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-012.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/0515954F-EC73-47EC-A4A8-A7F308C3EC42_2/dMisuKKy0O4Du8W1vSe3yoSgPmQSYPWNTIMm1LbO2W4z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-001.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/9E7E3990-FC38-4629-A3BA-067827C8D0DF_2/8rRRup1OoUXNfCVbsdkxQtM4t9OybTptojeekpRB410z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-008.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/32967FDF-C73F-43E0-9FA5-F546A94C23C0_2/IfYuowWdAcu3Vs7rzGWyUm8OxDoC5x6EAxBaiwIO7wEz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-003.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/BBC6FE7E-9792-4808-A347-3D004AD84F8C_2/wcRuKvmTNvqlNIAHSXxsTdAQHF3ZQP3gDBun72VkZlkz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-014.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/99FE79AF-3E5B-4EDC-9A2E-83C11D98FBDC_2/iyFeFXJjuHfj7fFbJxeBaqareyduyth055HtgliNn7Qz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-010.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/05C1285A-658D-481E-8AC1-71D381C22AFE_2/ckYTRU2qxkVsgYB3aUx7CN0tsFsnCjKj7SVck7bVdyEz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-002.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/63A0FE80-BA83-4E17-881E-D3AF1FAF629E_2/yWhjS6o7U7UJZoSJnDwoglcgzbtOwWIG5RKyrbmP1ksz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-013.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/D39915D0-F068-4F37-AC89-78526A94E6DA_2/OtCWZ8pb0QZH0s8c9Ou6MuPqhZDhTYfhwCC3mIdLqigz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-011.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/A81068CA-074B-4D09-9494-9CF954794EC4_2/2hSYfKUw2dBlMgyrOFNwIC7A6N7R8BBL9jPn9QAxdo0z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-009.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/A0166540-F44E-4177-82CD-27C7085F92B7_2/cRbdtRfUFANBsPQ597ShTCbi9nTQhCogIlW6eP9BLSEz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-006.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/773C950E-7F74-4FC0-8197-EBC0EEDA8259_2/NTgiAFQKgk18jVsmJCaoxkjCyLZGyf6FIQctK3jLSygz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-016.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/99E77850-CA3F-45C5-921C-D89D2830978B_2/GGNeBmj2X9Nt7LAUMYGkKmKNU856Lpry0N8UIOgxqO8z/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-007.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/D2A23B1A-19A6-4FBD-A975-331244333FDF_2/C3x6UgNsr0KRWUZNFTnlmNFWRWBpYSO8PiglOfxY1ngz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-005.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/7451CE6B-6481-42EF-A0F5-2651BD502B15_2/GyqvwWzcBmkrUrLe3nW9XaXyg5GQrLqUFtVpnggxjygz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-015.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/3237CB9E-AF0B-4430-9A1C-94F6BE5FA5CB_2/1RPxtcQm8M2JsyEaZniqP2i1ap5xRgBh1j9Ov9KZJQUz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-018.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/3184846D-5792-4A6D-89A6-D349DA5D9AE8_2/QPOnC9A4zzyRteyB61ZcTRTeREAfTiEfLNIHuzhbmVoz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-017.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ],
-    [
-      "fail",
-      "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/C842F988-0591-44F5-AA5E-157A29A810EC/386BE600-3859-49DC-A06D-D093F3A85AE3_2/rpwfBeyvYTOxZbI4ZIe3Q5AFGP4XWqF3vjuNHp9l0Coz/Image.png",
-      "/Users/20490412/Documents/Research_Vault/raw/assets/fab/2024-10-08-field-fringing-in-final-dc-device-004.png",
-      "<HTTPError 403: 'Forbidden'>"
-    ]
-  ],
+  "image_links_total": 5185,
+  "image_links_localized": 168,
+  "image_links_not_in_local_cache": 5017,
+  "images_copied_from_craft_cache": 168,
+  "craft_urlcache_images_available": 276,
   "files": [
     "2023-11-1-etching-oxide.md",
     "2024-1-25-optimal-3-layer-dc-device-parameters.md",
@@ -727,5 +126,107 @@
     "2026-3-9-ntt-fabrication.md",
     "old-cnf-notes-from-apple-notes.md",
     "packaging-spdc-devices-for-ntt.md"
+  ],
+  "missing_samples": [
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/B2325CD3-C8FB-4750-859B-B225B6153B45_2/wwrWrAtzwmbm78j6WRVCRLzamKieiEO9ZIZLfxZmyzQz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/F9BBFEDD-1DFA-4AEF-8CFB-FBE698DFCCE8_2/qqMy15HmtmXT8I7Ftk9i9zY50IymzUsJnB29ZNFpqVIz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/5FA7EA3E-E9CF-48D1-A1E5-468FD112C604_2/xUw2y8b1vusdTV4yhRxjNAxmycGHA7sPxDWicXjuizgz/Image.heic"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/3147FC7E-5051-481D-BBE2-9A528DAA933B_2/u8J3CrI3cYZ04OChTylRNldfwN1KzHcw40ISwbp7aUoz/Image.heic"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/09F9278B-B0C7-4D4E-A520-37680DB6F97F_2/tZg8Eyd6Wbsf5JUwoaDsxOL3MaHMyIbQyzml4DZCDOsz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/C4EB4DE4-0C51-43E5-98D6-4B2CBC74F61A_2/Z7V7aeuwa4IQUHdX9wu47GVvni1fIRmbSLaYC2h6fTAz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/4BA9DAC9-16BC-4709-9A27-106894A2805D_2/7v3sZz6WYygy2PKQm4vcDpcO1UShCltuTM6O7sn0DpUz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/19FC3DFA-A201-4F48-AE8D-41A0051FD6BE_2/sXClcSaz4bRo0fR3paPxYaZh6MplgFySmDAZCLLLlpoz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/C7784397-E31B-4C06-9CE2-8EED8115BD73_2/Ly93DzhSG9KALzdyt6B2KXgyCbSVM9cG9jzR80tBxUMz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/1894019F-8B25-4EF7-93D3-58B8A16418CF_2/TOfsvt3l8XPjRjw0CD3gQrqxZCBkM9IvaZnyn0m9chgz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/7EAE4AA8-1A59-4095-82E6-3CEB639757DE_2/dyYaK00dILrqm5fVySYsLFzYqGg9InA0bp9rYe7PmLEz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/80909E46-F097-46B7-B505-59B28405844F_2/xwiwHVvVyGy5mN9ABPDeyXjZqNRCLSYelhmvyYznp7Uz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/2E100083-8344-4100-9F8F-5DB7FB41AC22_2/s1BIGaRWmWNfR5h9qHOLaab08WpFIxk6uMl9xUoFpHcz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/921F92F8-67C9-46FA-98F8-B503766C4F92_2/yJqrhqfOgTxcEYxLXR5yfplCSn0YxWpTmhVxGFojTncz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/0D8AF1E9-156E-4613-8A1B-36F9E519E6D1_2/ueyF2NrPlRBiHueC1gE29qh7SZkgmoap5Yrmhxf3soEz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/20CC2081-AA4A-4200-A5ED-8B4BDD799C4C_2/vkI5vSKC4iCFMbx0cboUN0SQ9oQo4ypp3aoUFhdk0KIz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/59CCD8EC-EE85-4F2C-B201-0EE44D0DB26D_2/0ZQhExvVeNx6tNdvQJigo20Ikbb5a73RY5ZK1Kuyfjoz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/7F96DCA7-94CC-4E74-88E8-5F6BAE067265_2/jGoOdwl7HAPeMGBYlbjQibxvjdhh6paRPv56T3O7WOkz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/718C0C90-5148-4412-9950-307EAA541521_2/4vm2nTFf5wxJhehHCY7WB8t2TX7lOp5b6ia1KvJWhWUz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/F9F80759-FA5C-411A-AF84-41A2F20252FB_2/QbjKpaaOIx0VZ9kqHUOJEmk0mxhLJ3ppz1R9Mz2rLbMz/Image.png"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/EA1113D1-1970-4C3D-A21E-9F42ABBD99CC_2/8mEL2vYx8j9xu2na7QhyvI6yIyYG8LtKw37PxPwHfwAz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/19BF97A3-EE9B-44E6-9A44-D6884A560E1C_2/2Ky2sNlsWRx0ng8Js3AQs0eggpzX4eOEvzo1xo9woOAz/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/266764F9-36E3-4DB0-9780-A0E0AFE804DB_2/PpefNYm7hMkNziucz216UKYCMNMCOsfXM38wVDwe8p4z/Photo%20from%20Library.jpeg"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/E1095375-00B7-46B8-84BC-7292520328AB_2/5cRzlDSZYLU2KWz5g2FDXgkoBJ7gxyWbsBgDKwb3rgAz/Image.png"
+    },
+    {
+      "doc": "2023-11-1 etching oxide",
+      "url": "https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/999329CA-EE5A-4863-9151-FD970E2C4052/178AD96E-75DD-4BAA-BADD-29C2BF0A03D1_2/aJRyr6G958exvy2t8Shs0PnDvqX7kOTlLsvzBipb8Lsz/Image.png"
+    }
   ]
 }

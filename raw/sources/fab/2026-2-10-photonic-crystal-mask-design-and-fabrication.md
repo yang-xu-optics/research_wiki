@@ -20,11 +20,11 @@ I don’t personally feel a need to taper the input of these photonic crystal wa
 
 Below is what we expect the grating periods to be (we are only going to use first order
 
-![Image.png](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-001.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/c8dec36e-65aa-c4b3-6ed3-3e60cf5995d5/2Nt1mqFtuecfYfyOFtt8dJ8u3TlFfVtTuL08TdTKJw8z/Image.png)
 
 408 is the period for 1565.  Below is the perutbration to the period of 1565 if our neff is wrong
 
-![Image.png](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-002.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/5fba2a3d-d678-4616-568a-98100c93c542/mf5Fny1irL2Et8LkTxhDk1XmXuclqpxeQeJd1GsN7dMz/Image.png)
 
 This is still well within the above range, so lets use 390 nm, 400 nm, 410 nm, 420 nm, and 430 nm.
 
@@ -58,23 +58,23 @@ Dose of 90
 
 Below are some of the best 5 to 5.3 differences 
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-003.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/76B746F3-4EDB-4DA5-9B6B-2478A6F15E61_2/2RqAF6xjPe31WOJ6kmcABJ2u1xKmrz9PjKlVFKpxowYz/Photo%20from%20Library.jpeg)
 
 Above DR 0.467
 
 Wide 5.66, dr 0.422
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-004.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/C6C64FDA-B21C-45F4-BA24-C55BE147CFC8_2/TnTnoJ7wSMDC7ZjMcHwRfMFp3I4qO86jxH3SvYQ9Sqwz/Photo%20from%20Library.jpeg)
 
 For dose of 70
 
 W 5.33, Dr 0.6
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-005.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/9276E2FE-E123-41EA-9E91-B9E41C7BDFBD_2/VOy9xR6Md4r2bua8uluUUkfKecN0fONkPygnMpjy8Wcz/Photo%20from%20Library.jpeg)
 
 W 5.66, Dr 0. 476
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-006.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/61EC0AEB-D7E4-479B-B781-F9B31A8C220B_2/erMk5HyZXWtoSvTk8uZ8ZcMKJgH4GlbEeU72rFipXOAz/Photo%20from%20Library.jpeg)
 
 Very consistently 0.467 is the best duty ratio. Like, almost irregardless of feature size . 
 
@@ -90,24 +90,24 @@ We will expose with 80 as the dose.  We will add some small duty ratio correctio
 
 Before exposing
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-007.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/71098222-291C-415B-BF2F-7535531928DA_2/PVPp09iBtxbGcqHWRfY7WDDCWAe0QrsUyW1AtWfQgPUz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-008.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/6A5D0100-4791-4133-8818-68739CEB5904_2/z73GYoGRKMCyP8hnFTCm41kcCpOVc9dnwcCUxMbJkRwz/Photo%20from%20Library.jpeg)
 
 Now for etching the Cr and developing
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-009.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/EF6D051D-6485-4321-B86C-0ACF1D5E399D_2/HJXca2U4BXCE2DV7o09KbLfIMdzh7oVv8h36ICbnM6cz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-010.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/87877E04-519B-44BB-AF3B-D7766E265CFA_2/GoOKEAh5xh7ovyTnCr2619zj3vUpYWc5wKB7eCq0b4Mz/Photo%20from%20Library.jpeg)
 
 ### ASML job creation
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-011.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/CAC94A7A-8835-4594-8877-CC0D66F53C67_2/lOa2Bdlep4LIf2L72BRj8UsXHiM5lU1GRtAuybzHkRUz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-012.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/47355727-A25F-48A4-8542-63420E578B62_2/FB3KK2AhKGRQ4ZMo6OUxLlw9PuMXXKynMdO7NnxzjBoz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-013.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/C2992C60-70E7-4CCF-8C32-36A8A2937464_2/LOUhXBu0RfAPPx3jQQRGkzxwVK92dQbW0CuIQmLqLkQz/Photo%20from%20Library.jpeg)
 
 For the crystals job (which I believe should be done on a different wafer)
 
-![Photo from Library.jpeg](../../assets/fab/2026-2-10-photonic-crystal-mask-design-and-fabrication-014.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/355C6D02-767C-4223-AD27-397F96EFBB7A/28A2F81F-2C91-4F2B-A00E-3C463DF49C18_2/YJkeLVvbiknTMhDOvqqAaSN4UBsZZxXpomrohE6zE9oz/Photo%20from%20Library.jpeg)

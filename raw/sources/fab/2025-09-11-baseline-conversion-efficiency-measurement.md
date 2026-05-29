@@ -29,35 +29,35 @@ After this, we will measure loss on this device.  It would then be good to measu
 
 After first pass optimization, edfa, 10V, 7 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-001.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/ECA3E368-380C-43EC-AADB-B4C2790F2D55_2/KlqiMkJCVkUuslyNxyErIDXqPmlAixkaB6Q0sCFApWsz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-002.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/78ABEAF9-6A31-41D5-9426-BC695F9B4D3D_2/3gnThl22VI9yE2Rp98cT9uufH1J7R3X0SBIGgSi3aYcz/Image.png)
 
 Now with 11V, 8 Hz.  
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-003.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/88E88532-33FD-482F-BF22-7BD8FF211A03_2/OeQ773GApp9EClRLniBxlv8yI5ZjhVeafLNaLmTOUAMz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-004.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/7FE8A8DD-7FF9-4D28-BDEF-B3A88ACD7508_2/2m5ezYMcsQH3YHTOpbPKocOafHP6uyg1lWYQnF2NQU0z/Image.png)
 
 Lets have one more go at this.  Now 12.5 V, 8 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-005.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/8ED5BC97-5164-421E-8F57-851B9D1CD91D_2/UAx0BnPxBfvOlPMJrKUkGXkH59QAbKyFYd6ft3fCuKMz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/1930A106-7CAC-47F0-867A-A6FAAB8F3CFE_2/DgiWmxCYbG4dYI2dCFNxtTjSmPrVkwaQwXMkhEgLYYYz/Image.png)
 
 55 mW out of EDFA, 22.5 mW out of waveguide.  Now lets use normal santec.
 
 14 V and 8 Hz.  I did a small realignment.  
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-007.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/DC81EC2C-F5B8-4960-A83F-C46EA02ABA58_2/X3OKRPxzMg6zWnSY7cTPTO8TgUOSAkMXqyBWz1qhCDgz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-008.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/74E30CF6-6F64-4A4E-A23C-198C996F8A69_2/LL70bdPgCikR4HiSvUqeXfPJGojNj233lZWx0fME0p8z/Image.png)
 
 above used sign.  Lets use sine below
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-009.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/7CF3E4A5-AD7F-4642-B762-BF7F1A2FB58A_2/Hxu7Gy2nwoFpUTaQyyYPC8PxcmBL9wQvDVt6jfxstbEz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-010.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/75CBB394-7881-48BA-A1C2-30A00BF91F6F_2/cvOSyrChdjDUrlwspXy4k2B4YieJ46yfRzrfErFu5eEz/Image.png)
 
 The curve is a bit broad.  Either way, the power out of santec is 18.5 mW and out of waveguide is 7.5 mW.  I tried to make things better, but I could not figure it out.  I don’t understand the side lobes.   The trouble is we have more power in our waveguide but see 10X less signal than Ryo saw on SVM.  
 
@@ -127,11 +127,11 @@ Euler:
 
 1 mW
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-011.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/352D7749-C111-450D-9BC4-777861ADA82E_2/XKyUQOMqKgHYDZEkntTsV8f0wHIMPfVqFQJnHhGmBIoz/Image.png)
 
 We above is for 6um waveguide.  I suspect 5um waveguide has higher loss
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-012.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/9DA6FF5B-1AE7-4376-B941-F0B4D264FDD7_2/u0R08VpN15HKAq1quPlxpcmC5eQaH49xI1YCCvT93iYz/Image.png)
 
 Above is case for 5um.  So ya, I would suspect the loss is 1.5X larger.  This is annoying.  The baseline loss is also a bit larger than expected tbh.  I feel like 0.5 dB/cm is high, though it might just be me.  I would trust the straight (0 → 1, 0 → 2 comparisons more).  
 
@@ -199,27 +199,27 @@ Using waveguie three above, we measure conversion efficiency
 
 With edfa, 8 Vpp, 10 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-013.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/92D85587-33DA-49B4-B90A-6B680E870D1C_2/qJ56vgIVGovr7KUFLb87jffxR3z9yHyfctUFKqwydsIz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-014.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/B66154AA-0ED9-4141-A261-3101D125E448_2/0vIZCA02ZfT8InwRHiQ2PHhm7bTn3qJGckxiNrSbhw0z/Image.png)
 
 Now with 9, which seems to be the reasonable limit.
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-015.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/00DDFB9D-062F-4C56-80B8-81FA660248EF_2/9K13Y1r3bDyQccybs2t6T5lUGjNFFzwLP9R5ddBGBEwz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-016.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/072B017A-375B-4E83-AD8C-856D7091CD66_2/KAgMDLxz2wHJSrIkdTrMXhoQky3AQi95H9i3yhqyKCwz/Image.png)
 
 87 mW out of EDFA, 38 mW out of waveguide.  Now for normal santec.
 
 Using normal Santec, 10V, 10 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-017.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/4F65DDB6-32C5-4730-8325-BCBA848BFE64_2/vnf2fMUOScQCfBb0HfGtyJ34nMx44zldx3yweB7pnUIz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-018.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/AC746841-7819-4520-AF89-DF0859199A16_2/PleKjBWcySUEYozEwFlQb1LZphCmvNyxgO1dfyFyDMEz/Image.png)
 
 Device broke down, so that is why the shape is funny.  Another spot is fine, but ya, 10V is about max.  16.6 mW out of EDFA, 6.9 mW out of waveguide.  This is roughly consistent with earlier numbers.  So while this device is better, it is not a tonne better.
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-019.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/95289E1E-9056-424D-A481-CAB3CD77775D_2/rvXNHGaantAoeTc6lVlpufDmdQCDdibKMRHFKSOc3xgz/Image.png)
 
 Loss was a bit tricky, so I compared one short spiral to one long spiral.  Not a perfect estimate.  The point is the extra SRN did not really help.    Again, the number is a bit sensitive to the loss value, which we could be slighlty off on.  So again, I say this waveguide and the previous are the same!
 
@@ -227,7 +227,7 @@ This result makes me believe that SRN3 is just less nonlinear than SVM (by a dec
 
 Below is the box I am taking from (I will be testing the 7cm waveguides as the long ones).
 
-![Photo from Library.jpeg](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-020.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/CC3A4A6B-C439-408A-83D1-308F2E788480_2/V73QpPuwvhnrwSL04sJA6ySe22AVEDtppMymGP63eH4z/Photo%20from%20Library.jpeg)
 
 Die 1:
 
@@ -307,33 +307,33 @@ We use the above for our conversion efficiency test.  It seems that chip broke, 
 
 Using EDFA, 7.4 V and 11 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-021.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/50F09629-E020-4039-944E-3A7B1935D7CC_2/INU2ImLOoyraojEvajdMTsxRughOQfVmbxOn72bu9vUz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-022.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/B3C17A2D-64BF-4114-BD49-5110F67D9C96_2/432L7Yj7bNkh9fELR4IocxfRdavMJSW93IuOQ1tG75Ez/Image.png)
 
 61 mW out in, and 11 mW 
 
 Now santec, 8V 11 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-023.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/A4177548-9A40-464B-BED4-213D8336DEDD_2/rlj045LFLdMYF7gardtfSugcBVJ5ZZVVg0E1uURqGZAz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-024.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/27BD0D18-A322-408C-AD2A-02AF503BB3BD_2/xU21MftKH2btkF6VddGh3eJ4XZoxypHop4YRaE4gfukz/Image.png)
 
 9 V, 11 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-025.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/3F8937EF-478B-4E14-ACCA-E19D03E48FB5_2/H6kot70EPxLHRKxAetv87D5TELpeyzHAJ4y0GrVtIVsz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-026.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/79080003-56AA-48D3-9EC3-91B250B9808D_2/BEyV2Nzkj34LLxlEMzXykKc0hF7XpKvo2kb7S0j6LmEz/Image.png)
 
 Again, 
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-027.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/A9FE732B-CA40-445C-97FF-E9FB80B615B0_2/hgDDhgvvMt5tMWFdUUSxACItS6Cn5ZwnpMylphebW7Uz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-028.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/2AFC0C1F-F659-4DFF-B64D-BA4D4B5BCE41_2/L6tI2ixeBKKRuEazqjOgh3knidnBLXSKArSCJOCmvi4z/Image.png)
 
 17.7 mW out of santec, 6.6 mW out of waveguide.
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-029.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/56B5DFAF-9133-44F6-B292-DE9F29B1AF97_2/DZDuxngrqX80dkUaFwUA2Dtm1bf0aS7u0wh4hdHZbswz/Image.png)
 
 Lets now do the 10 um thick SRN waveguides, using the same loss numbers as above.  I feel like these efficiencies are a decent bit lowr than what Ryo obsreved, making me believe something is off.  Still, I feel like I adjusted the imaging setup correctly, so I don’t know.
 
@@ -341,15 +341,15 @@ With 10 um of SRN
 
 EDFA, 12 V and 10 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-030.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/359CE8D9-A109-4B25-8325-B493C1B46213_2/GAHprmy5CVC1Dv7KRwWXBtVYb4kV5rezNjNq7PYxIbIz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-031.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/F05782DA-F223-4731-9240-77AF0324641A_2/sDisKOiwxMfIS4mLKyOjygGzB1stQQVxJrR9aSMp4O4z/Image.png)
 
 14 V, 7 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-032.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/DD602F59-9192-44A6-9A4E-6A38AC3FF1F2_2/Pc64ZXV0yKPxUDkOo7M9kKj87fgNxwtyOZ4SL0xeJMEz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-033.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/6892505F-F0FF-43AA-81D0-B42BD582DA30_2/WxtJRACxGwvj2COcy1trwEo95czrg4bnOy0mPLbu7x4z/Image.png)
 
 81 mW out of EDFA, 26 mW out of waveguide.
 
@@ -357,19 +357,19 @@ Now onto santec
 
 14V, 7 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-034.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/D64ED5CA-1354-4165-B931-221131369920_2/zJQMnqkxHL14JvIsubcrwPMsMmNIVeVJGwkFbhhFf0Ez/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-035.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/2E6BCBD0-572D-4D3B-878E-F0BF064E1BC0_2/ni4PSQUJ5kDjmZUV4sp8NxygLfx21SG8uC2ReJx4gMQz/Image.png)
 
 15 V, 10.5 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-036.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/77DC3901-73C6-47D2-8667-01DFEB90E80E_2/dspVCtYvRoidiy2OEhBvsTEUl6OzHumPCg0KI0UKZUEz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-037.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/ACD1E801-65C2-4C36-AD18-EFB6F88E4000_2/mkxLyhLSuDsoWGTVQr293YqFcl8kpI101ziwOA1is64z/Image.png)
 
 16.5 mW out of santec, 5.4 mW out of waveguide
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-038.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/73844E87-E787-4A44-93CE-50A31F32C75C_2/TvjsK2MNxi13IoMAJbOSny6vj1ioZHafucvqHLPobGwz/Image.png)
 
 Not quite as high as Ryo guessed, but it is off by like a factor of 2, which could be explained by some error.
 
@@ -388,17 +388,17 @@ Going back to SRN3 10um of SRN
 
 EDFA, 12 V, 10 Hz
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-039.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/B0F6882D-E85C-46E7-83B0-8DF38CCA8D10_2/6UN2fgQJ2NQUsfZNm3K8uiHSZmAPAhe7Q6yUxZrEhRoz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-040.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/E02A5A36-9133-406D-877D-6343F04C8A23_2/OyCgEmYc6d4pyW7QLnaXIFDPbooh11usfGz9j8Ulaogz/Image.png)
 
 85 mW out of EDFA, 31 mW out of waveguide.  Lets move to santec
 
 12.5 V, 10 Hz (13 V is the breakdown)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-041.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/E2D236A6-E84C-4F5C-9404-BDD537F750F4_2/NSMfmZMY3JjNVaiqe06vyQvkbmMY1dXK0E9ZGdIfUEYz/Image.png)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-042.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/4426CDEA-64E5-4025-9691-A24882114805_2/dCdmYgQ94hXrfnQX2XlMxrkmDpGEuUfrZBjIjWkZT5Iz/Image.png)
 
 18.4 mW out of santec, 6.3 mW out of waveguide.  About the same as before.  
 
@@ -406,21 +406,21 @@ Now lets do a quick exercise where we look at the quadratic conversion efficienc
 
 For 10cm SRN3 with 10um SRN, we have below for 1570
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-043.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/e7f57856-bfb2-ab1c-f366-74356afaf8fe/w2iPixQGyY5YU32ln7OyV46RwdpuPsmu8xIimNwtSuwz/Image.png)
 
 For 7 cm SRN3 with 6um SRN, we have below for 1570.
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-044.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/3B504FF7-739A-47BE-B0A1-F602996C8D0C_2/rTk9HfcIXsCZdZ80SQ5uEnVEMCaOnDuliQMAOSwQd34z/Image.png)
 
 For the above, we said we saw 1 mW out, if we used anything higher, this would come back down into reason.  If we assume we got 2.4 mW out of the wavguide (like 1612) then we get below
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-045.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/9203F68F-0BFB-496D-BCC6-50D36DA0AFAE_2/7iKltEhzsGWEVaeWUGIrL9s3dz7rZyy97KzfbT9j0yUz/Image.png)
 
 This says our 10 cm spiral still was not as good as it should have been (it should have at least been twice as efficent), but it makes our numbers work again.
 
 For 7 cm SRN3 with 6um SRN, we have below for 1612. (we saw 2.4 mW out of that waveguide)
 
-![Image.png](../../assets/fab/2025-09-11-baseline-conversion-efficiency-measurement-046.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/FEFD8A03-AF84-4D1B-88A4-7B48F5877F16/D5A1A180-BD07-4C97-B2BC-CB6619917553_2/fVleh6IN9ovetPi0Bb2VIuvxMzg0BDrkuKgpfxFXmLsz/Image.png)
 
 Ok, so if we assume 1.8 scaling for everything, using our conversion efficiencies on a 1cm waveguide, below is roughly what we would predict, and what we got, after quad scaling.  I don’t know how much I was pushing the voltage on the 1612 chip, so take that one more with a grain of salt.
 

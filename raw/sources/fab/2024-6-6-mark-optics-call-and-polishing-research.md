@@ -11,7 +11,7 @@ The purpose of this document is to write down any of my thoughts from the Mark O
 
 Jelena’s group at Stanford seems to have figured out a way of starting with Bulk crystal, bond it to the substrate, and then thin the bulk crystal here: [https://www.nature.com/articles/s41566-019-0556-6#Sec6](https://www.nature.com/articles/s41566-019-0556-6#Sec6)
 
-![Image.png](../../assets/fab/2024-6-6-mark-optics-call-and-polishing-research-001.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/8D190332-AD29-42E4-8E41-4C97B5FBCD33/7812E949-C7B6-4B91-ADA3-C3741D78F681_2/V5gpmyFe3ezGVobVwufqx7yu3ZKNEs9HJ65UkLXhecoz/Image.png)
 
 Obviously they are not going to give me all the sauce, but it seems that they grind the bonded wafer down quite a bit and then use CMP/Dry etching after that.  They grind the wafer to 15 um, and CMP to an unspecified thickness.  Their final thickness is 350 nm.  It would not suprise me if they cMP it to 1-2 um and etch from there, mainly because CMP lacks precision and etching is precise.  They also use very thin final films.  They talk a lot about the bond strength.  This makes me minorly worried about how strong our bond is.  I should bring this up today with the polishing people.  Remember, grinding != cmp.  We should clarify which the people at Mark optics will use.
 
@@ -55,6 +55,6 @@ I must admit, I am not as optimistic about this process after talking with Julie
 
 They only etch 300 nm down though
 
-![Image.png](../../assets/fab/2024-6-6-mark-optics-call-and-polishing-research-002.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/8D190332-AD29-42E4-8E41-4C97B5FBCD33/3EB72EA4-75AD-4A4B-B8D2-961403A4AD1B_2/v5WchehTk91I0gU0VQ8yzll4yCOORZcI6EFGofwr8D0z/Image.png)
 
 They etch down along the X-cut axis.  I doubt Z-cut should be different, as this is a physical, not chemical) etch.  I wish we knew of a faster way of etching.  I will each out to Aaron about this.

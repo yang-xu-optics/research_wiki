@@ -22,33 +22,33 @@ We will take SEM images after to see what we get
 
 Before arc
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-001.jpeg)
+![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-001.jpg)
 
 Before resist
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-002.jpeg)
+![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-002.jpg)
 
 Before Edge Clear
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-003.jpeg)
+![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-003.jpg)
 
 During
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-004.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/1CEDAC0A-89C3-4C6A-832B-2E1E2F6A04FA_2/F5iAttQKCLfwM5ulqdKQHTKUboHCDDFHVQD23wYVSfkz/Photo%20from%20Library.jpeg)
 
 Before main pattern
 
 Changed all doses to 20
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-005.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/7B6C0DD7-84AF-4BE1-BFEC-3DA5AA80852F_2/jxOMer9BSC8UM8VrvTee6yHF5FhgnBRQPBM0XEIeutEz/Photo%20from%20Library.jpeg)
 
 During
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-006.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/4902E6EF-D292-42B8-84D6-049ACD22A65B_2/bEOBy2dljaWu7jkBjzC95DkNZKOEvHDRxChFl6RTAbEz/Photo%20from%20Library.jpeg)
 
 Before developing 
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-007.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/6EFFE93D-4E69-45AF-BCBE-D07DB8066BA1_2/0pn2kOp9xHpy6nxEES7oaszqHpicTxmp9ebJ16SIXNoz/Photo%20from%20Library.jpeg)
 
 ### Etching
 
@@ -56,91 +56,91 @@ We preclean 81 and 100 for 5 mins. We then do a 1:20 descum on 81 and a 1 min se
 
 Before oxide season
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-008.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/1F9213E4-7DD2-4A1A-B54B-DB1C1A13B279_2/PzNvLwvj6Lb6SMxxmmz71NCRRAbmaGpMDy4vubjB6ZMz/Photo%20from%20Library.jpeg)
 
 Before descum
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-009.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/C20B086F-E8E3-4A38-8B9F-166A37F617C3_2/axJYJRXm0ExPlZr4SObuHBwFr5JDNpgCoSc962XJ58Uz/Photo%20from%20Library.jpeg)
 
 If the SiNx etch gets rid of 700 nm of oxide in 6 mins, it etches oxide at 116 nm/min.  We then know it etches SiNx at ~ 500 nm/min.  Ie, pretty fast.  Again, this is a bit guessy, so I still say we stick wtih 5:30 - 5 min etch just to be safe.
 
 Before oxide etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-010.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/AE8A55A7-647C-4D13-AF95-6047715747F1_2/how6hMSvVpNivXhiPkVOdmANSarPC9iCzK1jvq5DKDsz/Photo%20from%20Library.jpeg)
 
 During oxide etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-011.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/2D12365C-F838-4EEB-8DEA-8E77A8163FC5_2/yRt63x5vZsOgx3SAI6VCgEn9O8aMgjlhseJMCzt1tl4z/Photo%20from%20Library.jpeg)
 
 We now run an 8 minute clean.
 
 Now, 5 mins on EcoClean
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-012.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/47C25B0D-9B60-46CA-8A7F-F1CBB9A30C69_2/w9ELq0M17N3jbU67tkdrQsb12eUtpb0R5cc1p5LLyfIz/Photo%20from%20Library.jpeg)
 
 During
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-013.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/41931109-C623-404D-A024-69896127EE86_2/CfKyzHTIfJ8h7hgY9nsuqf8Q7Il6ehLxtTvKirNT3moz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-014.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/C354527E-C132-4EB9-88B7-23114F6B588C_2/qQCt6UgsRTXh7a0r8NRXLBXFBuo0F1VgPsOxeYdEPYMz/Photo%20from%20Library.jpeg)
 
 Before piranha
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-015.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/C6DE096A-1ECA-4D82-A83F-949118EE383B_2/sqqNgH7qMCjG4Oz9RItF4vKSs7dhSA1wzTsqR7fHxHoz/Photo%20from%20Library.jpeg)
 
 Before nitride season
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-016.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/E3B83299-C69D-49B2-8938-EB284B1077F8_2/TJr6vtTteebAnTtGPU2qEr0HGv9JsWxvSOTA15x64PUz/Photo%20from%20Library.jpeg)
 
 After piranha
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-017.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/65E8D8C0-DECA-42ED-BD03-EE9257EE6447_2/aSZBspmrCLxdzKGwXCIKLe1Typ51ZZ4BHD1or0Oc7XYz/Photo%20from%20Library.jpeg)
 
 Ellipsometer was taken, but I am assuming I had some resist left.  I don’t think I over etched.  Lets do 5:15 SiNx etch
 
 Before
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-018.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/367078D0-8F05-433A-B34E-01D61C425308_2/zfjxLKXRL4RjcNKAQIK2YmABT9SJ1o9AEALepbD8oD8z/Photo%20from%20Library.jpeg)
 
 During
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-019.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/0738D17E-E765-457A-97DB-37DDFEB137F9_2/atnxYQVubtFOqgy0nEnkQClDloq4VZY9tDTL2ufDMHgz/Photo%20from%20Library.jpeg)
 
 After
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-020.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/9C6685A8-0A7A-4343-8DD8-73666E31F24D_2/OuEAPLiB4NZZuc1NlkREyqKFau4CpCYdZEX0ZyoDfRcz/Photo%20from%20Library.jpeg)
 
  
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-021.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/766A1209-9FF9-43AE-9580-127301294B5A_2/miTps0SwzCOpVKZXAD9IXFbG3y5eMLVy7PcgC0Hqw28z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-022.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/D7804318-BE9F-4FAC-97C7-9E6F965D4C14_2/Ye7dMoQFqfRqYQObc89WSTuKNbLHbPnutKllzPr09LIz/Photo%20from%20Library.jpeg)
 
 Ellipsometery 
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-023.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/193126CE-0E48-4787-ACF5-D0516423762B_2/GkT1dUA73ymv7vACNfIKD0CQPyS9OjTyfPAYHoYVHwcz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-024.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/C08BABB5-E6FF-4AD6-A892-6A79840F4513_2/wHDS2uQd85vzaxggFxKCn4Tp0R49p5nkXa1LGohiTEsz/Photo%20from%20Library.jpeg)
 
 Profilometer
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-025.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/6D2B02FE-C535-4A64-804A-F0A27DBCEC07_2/nomyRqSIW5xUYQmRrRc48CMeKKpqOC2Xz4O0YGxb9Fkz/Photo%20from%20Library.jpeg)
 
 Another piece
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-026.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/1D55618F-AF4B-48CA-B1BE-6033938E7859_2/EqrMdEQPSzdWSyiBtASmacA294zxp93wVnjVr0wp9u0z/Photo%20from%20Library.jpeg)
 
 This piece was more from the edge, so there could be some etch difference. Still, it is tough to tell whether I have much oxide left
 
 Another center piece
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-027.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/71A5455A-FF46-46AD-9541-8BF65002D850_2/em7ACBcjwNbRmlPcv8reEK6i8KkgVqOJxGcXg1144HMz/Photo%20from%20Library.jpeg)
 
 After 1 min BOE
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-028.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/6837951E-C031-4D57-833F-CE51C84D9AB7_2/C0Toz7lUmWOCoX4jB8ZWe4CNTOXGIfh37Z6tS6iPNZcz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-029.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/8E0EDA35-DFD7-4188-8624-8EC4D90182B2_2/dRKy7mVxGvNF9IQ1OiZq3CVeYD8HSyOJZVBZrRTgcREz/Photo%20from%20Library.jpeg)
 
 The rough conclusion here is we did not have enough top oxide. It seems, as best, we had 100 ish nm left. This is probably why we could not see it in SEM. Or the BOE did not really remove the oxide. Let’s leave a chip in BOE for 10 mins and see what we get
 
@@ -148,9 +148,9 @@ I don’t think 1 minute of BOE did much is the conclusion. I don’t think we l
 
 After 10 mins
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-030.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/5E36CEE9-9D31-4B1B-B44C-2C137C1CA83F_2/H09WQSjyhcxbzeyUBAwbKJk1vyOSmVQz0sfShKxqGawz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-031.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/379EF5C3-A5D8-4386-BB88-6D3DE7E11281_2/7wMKaa8y2WuDi22VdIDxyinDWRCkLVclE1E1MWFu3yIz/Photo%20from%20Library.jpeg)
 
 To be honest, I can’t really say I have learned much so far.  The things I know or have issues with are below:
 
@@ -165,39 +165,39 @@ I think the next best thing to do is take one chip, and do all the measurements 
 
 Before etching 
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-032.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/0B408FA3-0499-40F2-8A33-1B4FE1FCC119_2/gv47Xx5jJiPWsyS8Vk6yztrrkA7eKX8vN1lXyqF0FN4z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-033.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/CFBCD91A-F92E-4B17-8FDD-4477DBB6C8DB_2/ha1TwEjAeyjZxlKY09VIlrEPHs5bBnSpYMW4B0WLVGsz/Photo%20from%20Library.jpeg)
 
 After 30 seconds
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-034.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/D50E8172-E6C8-4918-A26F-8861EBAC93F0_2/dXkEkuJJe4jvXmnhoNyd1TixchXVLaU7NLjrmIltMPcz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-035.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/30609918-CBFB-475B-8DB7-D87F40236E46_2/aSzO91xhNzy8rM769l7ixOJWzjxaggdyeh5J5xlyHxEz/Photo%20from%20Library.jpeg)
 
 After 1 minute
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-036.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/5F7DCA45-656C-43B7-94FE-6C16C55E5199_2/vGEQCjG5nQtxKl75oC5RbcR0RLJ0xXNEXJ1etN1LcyQz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-037.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/8608E9A8-CEB4-4C97-94CE-52CD135CC169_2/ox1Sd0MbPKtxU5kfkl4nnTxtnpxiewaO45UBVeep5nkz/Photo%20from%20Library.jpeg)
 
 After 1.5 minute
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-038.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/8B976360-EDE1-489A-9522-CDEEAF2DE395_2/5ausyq5KdFnjH4fx0PJLY6ykz26OuhgnCCEwtho3pF8z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-039.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/75898A5A-2449-4799-AC27-9DFB9D673C72_2/lbXbb7sz143LFAADrslTU3U9yrOMzYOYwLlrO6buG8oz/Photo%20from%20Library.jpeg)
 
 After 2 minute
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-040.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/87C18CB8-C265-4FB1-8B1F-D822F29CDCE5_2/sOJIRJCDNThndpFul9wi3XN9HJoQ85diRXkBt8QDxG8z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-041.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/A9F71944-3850-488B-8852-8A5C7C0E1DAA_2/6HbgyEk3jYkorscaYQZnSzLltLfEhWy8svgNYy40EJMz/Photo%20from%20Library.jpeg)
 
 Results
 
-![Image.png](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-042.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/22FFBF3E-5248-42B1-9F1D-2F3472BC1324_2/XmkYxTwRGiO7ZDZBKtsyR3TdCaYswlcqIyalVo1Ob20z/Image.png)
 
-![Image.png](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-043.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/A2A1568A-0D0D-477E-B9CF-DBC53AC981FD_2/D8ZH3zVHTvXROWuvbNLyiws4dE9vSmyMc1F54tMehVkz/Image.png)
 
 Below are SEM images
 
@@ -205,23 +205,23 @@ No BOE
 
 
 
-![NO_BOE017.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-044.tiff)
+![NO_BOE017.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/FDFF91AB-CF8F-417B-A06C-7D52071F5385_2/3L91wiyOOiNDJOv14dmKMEop1DgEARHu0Xe6CWGdez0z/NO_BOE017.tiff)
 
-![NO_BOE018.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-045.tiff)
+![NO_BOE018.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/7E8BBE77-B53F-4B08-867E-5C1F931D6112_2/mWHJcBIlvKw7FyxT8AtqZ9VOwavIOTdteG9xEHKjOx0z/NO_BOE018.tiff)
 
-![NO_BOE019.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-046.tiff)
+![NO_BOE019.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/B5182CD7-1950-42CD-927D-E8A50CEF37CC_2/5Lpzx1uXBy6iuaxDbhM83cKR8xrGHRYOuN9Dxdcjjxcz/NO_BOE019.tiff)
 
 1 min BOE
 
-![1min_BOE012.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-047.tiff)
+![1min_BOE012.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/0295B907-B2EB-4868-87C8-392E64265BFB_2/iluumFAppN1dyyTQTHcK7ExvifnFXy0vPvnssZwbv2kz/1min_BOE012.tiff)
 
-![1min_BOE008.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-048.tiff)
+![1min_BOE008.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/730A5E5E-21F5-4882-AAC9-4612842B5DD3_2/6dQr9gWPsIXmEVsQFmHiHy91Blwy74Aes3yrk7y0qosz/1min_BOE008.tiff)
 
-![1min_BOE008-2.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-049.tiff)
+![1min_BOE008-2.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/1A9A7581-A47E-4DAF-8D4D-9D5098413A55_2/C6pIeMWPK3tofxyycKePopt7Jtm3OyAqQFxsacKv4Tcz/1min_BOE008-2.tiff)
 
-![1min_BOE003.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-050.tiff)
+![1min_BOE003.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/D9E592D2-3C7E-4C37-91DE-2B24EBBB32C2_2/lbxzERWZVMHyUqPBlTsdie4qp8xuwyiZmupY4rDxf7cz/1min_BOE003.tiff)
 
-![1min_BOE009.tiff](../../assets/fab/2025-06-27-stripping-oxide-hard-mask-051.tiff)
+![1min_BOE009.tiff](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/0599FB52-ED07-4AD8-928E-E1CE0A71A964/A2E160BD-9FC1-43A9-857B-5D5801FE1769_2/4O1Ql03VpRynAyuV1L43x3BxDPfKBHHf5H27uVr0ix0z/1min_BOE009.tiff)
 
 Waveguides are also ~1um too narrow.  Below are some next steps before we do final SRN3 fabrications:
 

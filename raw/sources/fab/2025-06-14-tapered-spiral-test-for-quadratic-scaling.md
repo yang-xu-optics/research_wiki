@@ -11,7 +11,7 @@ When testing previous spirals, we found that the quadratic scaling seems to stal
 
 Below is a theta division scan
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-001.png)
+![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-001.jpg)
 
 We use the pulsed laser with no filter.  I admit, this is not a tonne of power.  Lets decrease the number of divisions (as this is 2 turns afterall).  This waveguide is a bit tough, as we don’t see a tonne of signal.  A bit hard to say if this is because the low voltage, thin SRN, or something else.  We are currently using 2.5 V, but we might want to make it 3 soon.  Half the issue is each subdivision is rather short.
 
@@ -19,19 +19,19 @@ I would like to try my best to make these waveguides work before we spend lots o
 
 The centering and scaling were hard, as we did not get a lot of signal.  The best we got was below
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-002.png)
+![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-002.jpg)
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-003.png)
+![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-003.jpg)
 
 These are not great, I admit.  Below is our rescan.  My best hope is EDFA and strong interference can help bail me out later 
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-004.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/78A8EF27-0BE3-4FFB-A8F9-9611A5A79A83/F376E9AE-D040-4A3E-9B96-1816D6B4A57E_2/FEKgT6tgEMjfqnZoYBuy8ajlW87jXMhXuUGxQCwzkTMz/Image.png)
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-005.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/78A8EF27-0BE3-4FFB-A8F9-9611A5A79A83/3E3C9130-8CE4-4C6B-95EA-1E50956DA268_2/8eyF0fhmLQPAucMSGInO55H8hCGxpWsOsB6T7xYyAFIz/Image.png)
 
 A bit more signal at least.  Lets switch to CW and continue.
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/78A8EF27-0BE3-4FFB-A8F9-9611A5A79A83/556F4AEA-2344-4FFC-B650-23C974025EF2_2/lAqMZgIlyhhOFHTZE3JFxKpknhz6257y2DMyfGXFKJQz/Image.png)
 
 So it seems that the first section of poling did not work. There are a few options:
 
@@ -104,7 +104,7 @@ Medium circle
 
 0.5 mW
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-007.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/78A8EF27-0BE3-4FFB-A8F9-9611A5A79A83/B1A39DCE-2FAD-430D-9DC7-0E35007ECC5D_2/pWbqe1Hy1kz9tN2MeoyR80BqC2CEDI1ZSaxYo0E46pEz/Image.png)
 
 
 
@@ -182,7 +182,7 @@ Die 3
 
 
 
-![Image.png](../../assets/fab/2025-06-14-tapered-spiral-test-for-quadratic-scaling-008.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/78A8EF27-0BE3-4FFB-A8F9-9611A5A79A83/FD70B2DF-03A4-49BD-A7CF-EEEC971767E8_2/eVEyKFxpBGUbNkXsF341fsZUP88CkWHxnFzfxAVM5cUz/Image.png)
 
 
 

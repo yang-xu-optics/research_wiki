@@ -29,33 +29,33 @@ For future reference, 8-27 is SRN3.5 on the legion desktop.  1550 on 3.5 went we
 
 Below are my results for the TM mode of SRN 3.5 (both for fundamental modes).  
 
-![Disperison plot for Height0.5.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-001.png)
+![Disperison plot for Height0.5.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-001.jpg)
 
-![Disperison plot for Height0.7999999999999999.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-002.png)
+![Disperison plot for Height0.7999999999999999.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-002.jpg)
 
-![Disperison plot for Height1.1.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-003.png)
+![Disperison plot for Height1.1.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-003.jpg)
 
-![Disperison plot for Height1.4.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-004.png)
+![Disperison plot for Height1.4.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-004.jpg)
 
-![Disperison plot for Height1.6999999999999997.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-005.png)
+![Disperison plot for Height1.6999999999999997.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-005.jpg)
 
-![Disperison plot for Height2.0.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-006.png)
+![Disperison plot for Height2.0.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-006.jpg)
 
 So a really suprising results is that our GVD of 775 is very low.  The issue is that our GVD of 1550 is kinda high and there are no regions with high poling period and low GVM.  So SRN 3.5 is probably only useful with a height of 1.1 → 1.4 and the middle eidth and low etching
 
 Below is the data for the TM mode of SRN 3.0
 
-![Disperison plot for Height0.5.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-007.png)
+![Disperison plot for Height0.5.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/53C25BB5-9ECA-4838-B240-6389D4CB0244/0C03CFAB-0C89-4038-9BC9-7352B860DE57_2/rcZraMd47yDJC6vDdKZBSQGm0cNUwJNBhN9fxvpopacz/Disperison%20plot%20for%20Height0.5.png)
 
-![Disperison plot for Height0.7999999999999999.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-008.png)
+![Disperison plot for Height0.7999999999999999.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/53C25BB5-9ECA-4838-B240-6389D4CB0244/4E6E2E6B-F200-4974-A1DF-D20AD2B6A1F7_2/UR3zQIfWIZEHxf9TjnwaU1pL25T8ZhU1siAcBYJJUVYz/Disperison%20plot%20for%20Height0.7999999999999999.png)
 
-![Disperison plot for Height1.1.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-009.png)
+![Disperison plot for Height1.1.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/53C25BB5-9ECA-4838-B240-6389D4CB0244/03363446-DA57-4F11-BFB4-D867090FF403_2/Y5bzMx6SI5CUJNQTRicDGHTFSQFMZ0zxoWoEdtpyttEz/Disperison%20plot%20for%20Height1.1.png)
 
-![Disperison plot for Height1.4.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-010.png)
+![Disperison plot for Height1.4.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/53C25BB5-9ECA-4838-B240-6389D4CB0244/00F6E650-109C-4996-8D62-B9A0567CDF41_2/49hYxkCvyWxgFqzZfeiE0154WlxkrIVx90gczyTZgtgz/Disperison%20plot%20for%20Height1.4.png)
 
-![Disperison plot for Height1.6999999999999997.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-011.png)
+![Disperison plot for Height1.6999999999999997.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/53C25BB5-9ECA-4838-B240-6389D4CB0244/A2AC0B2A-DCDE-414E-923E-8A0C75A074C3_2/NB38bhxq17I73K3b6P1zYEvmei7RLpioyOxtJqYPIlIz/Disperison%20plot%20for%20Height1.6999999999999997.png)
 
-![Disperison plot for Height2.0.png](../../assets/fab/2024-8-26-core-index-variation-for-dispersion-engineering-012.png)
+![Disperison plot for Height2.0.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/53C25BB5-9ECA-4838-B240-6389D4CB0244/362A1373-70F0-414A-AA64-4DD313107573_2/pixECOV5jCNpph1jYRcGeA9Yo9PFdWLtTkqwtudiYowz/Disperison%20plot%20for%20Height2.0.png)
 
 It seems that somewhere between a height of 1→1.4um is optimal.  Thicker will give easier poling period, but harder GVM.  I will probably want to do a more detailed sweep there, but it seems that SRN 3.0 is better.  
 

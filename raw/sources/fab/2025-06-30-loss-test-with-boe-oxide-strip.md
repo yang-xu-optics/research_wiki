@@ -21,23 +21,23 @@ I did the BOE etch for more like 40-50 seconds
 
 Two inners had BOE
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-001.jpeg)
+![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-001.jpg)
 
 Before deposition 
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-002.jpeg)
+![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-002.jpg)
 
 During
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-003.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/104FD5B8-CE5D-4974-B89C-1330FFBAF700/B0076FB7-76DB-4D1C-9989-4985C2953D47_2/y2pvVgxauWWFqgXvQdLe4q0AGURNydiMvmh2jjs1DBAz/Photo%20from%20Library.jpeg)
 
 Calibration RTA
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-004.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/104FD5B8-CE5D-4974-B89C-1330FFBAF700/EC115BDC-775A-4D23-8D6C-3AB97AB0AB8C_2/K3pcA5vtKA0zzPuZFsxOyaTvprtA6wwS00RLU4y7k4gz/Photo%20from%20Library.jpeg)
 
 Main run
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-005.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/104FD5B8-CE5D-4974-B89C-1330FFBAF700/578BA1D4-B96C-4117-BD2B-66A33E22B3F6_2/WESRRFpBxASpxbmNTd4B4dpky6Di2nLxJ0pKCIeUjr0z/Photo%20from%20Library.jpeg)
 
 
 
@@ -113,7 +113,7 @@ Long circle
 
 2.8 mW
 
-![Image.png](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/104FD5B8-CE5D-4974-B89C-1330FFBAF700/1BFD9BCE-4538-4A6D-A0F1-68E343BA22FD_2/XSN04BttSMbnVuvwTQpuqtVJo3pgSrkEYXXxbzEWP9gz/Image.png)
 
 No BOE RTA 2um
 
@@ -145,4 +145,4 @@ Long circle
 
 2.4 mW
 
-![Image.png](../../assets/fab/2025-06-30-loss-test-with-boe-oxide-strip-007.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/104FD5B8-CE5D-4974-B89C-1330FFBAF700/5144A8FE-CB42-4AAE-88ED-C023E8A9C1FC_2/tDCyqkrqer0Oyy0gAXMb9xAq8mcjhwlhQ6ajvxGWBL8z/Image.png)

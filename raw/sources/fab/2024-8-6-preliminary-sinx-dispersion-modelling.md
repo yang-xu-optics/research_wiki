@@ -23,11 +23,11 @@ So far, I have a very basic simluation created, where I sweep over two geometric
 
 Small height
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-001.png)
+![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-001.jpg)
 
 Large height
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-002.png)
+![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-002.jpg)
 
 effective index went up, which is what we want
 
@@ -43,7 +43,7 @@ In the command prompt, save the data by writing matlabsave (“filename”, neff
 
 As for data types that I can export, I can get group index and effective index.  Effective index will give me the phase mismatch, while group index will give me GVM.  I still don’t have direct acces to GVD, as this requires a derivative that I don’t have.  Let me see if I can access it somehow (as it does not like returning anything from the frequency sweeps)
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-003.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/86DDDCB6-F58E-41C1-9541-898441737FCE_2/7t8Xbc1xKyF7imhztpuwQFGayEn3Th17YpFRO4dcyHEz/Image.png)
 
 For reference, this is why getting dispersion will be tough.
 
@@ -51,30 +51,30 @@ I am just going to calculate analytically for now using freuqnecies very close t
 
 I seem to have extracted the group index (alas, the neff did not quite save correctly, so I will rerun that simulation later) from the large sweep.  Below is the result
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-004.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/DA75613E-31C7-4ECC-B9B1-0716D4FACB69_2/IS66y4ri6Wxd18I83EDLb1hIONejF4Ogf8POJ51oymMz/Image.png)
 
 The way the data is saved ia kinda a pain to easily unwrap everything.  That said, it should be possible.  We can already try to unpack things a bit more to get GVD.  I am a bit worried about the datastrucures not quite saving with eveything in the same order, but hopefully that won’t happen.  I would also hope to make scan an integer different number of height and width in the future just to make the distinction a bit easier
 
 Below are the functions I have coded up to analyze the basic values Ryo wants from me
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-005.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/36B5C278-21AF-49D2-BDEC-19FB5FCB46DA_2/ye6sUUTwKyBzZ045DKg8pFTt7kz1TZ3Z69gQz8UJKG4z/Image.png)
 
 The GVM and poling period ones are right from the definition.  The GVD is from a numerical approximation, but otherwise from definition.  group velocity is probably a tacky way to derive it, but I was unsure whether taking the inverse of ng would give me the right answer either.
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/6058991A-8F89-4DD4-B503-9AFCEB82A396_2/wndFp1QdbGrxBS2wzDfVkgPTjCqCouvlziLT8lUzOmcz/Image.png)
 
 First plot of GVD.  I can’t really tell how accurate it is, though it does seem like a thin waveguide is best.  We get GVD of almost zero there, which is pretty good.
 
 Below is my algorithm that sorts out a .mat file when given the name and type of file you are dealing with
 
-![Image.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-007.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/D7BAF974-3B50-4822-BC53-C3548B550C06_2/RQ4b4546aVhCc2jFB2ymPbzEZw3RVJa4XHOWPlwn0Lcz/Image.png)
 
 This seems to work well.  I was able to replicate the plot above using a differnet data set with this code.  Now lets see if we can find the poling period, GVM, and GVD using all of my data
 
 Below are my first full plots
 
-![First Dispersion Plot.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-008.png)
+![First Dispersion Plot.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/0D24AC38-9F19-4259-8C4E-6B8B3A9AA921_2/99RJme2DSfXuzCS8GxW5DegPdjXGri3ORzLYVfJslMQz/First%20Dispersion%20Plot.png)
 
-![First Index Plot.png](../../assets/fab/2024-8-6-preliminary-sinx-dispersion-modelling-009.png)
+![First Index Plot.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/1A00507E-3308-47BE-AFF7-664C9D0EEDCE/91B2D0C2-3330-402F-9246-B4AC759FBDC2_2/5hRu4drxQrX8ZZl24HDV4JgEhBA6OsbyxYcsfdOylE4z/First%20Index%20Plot.png)
 
 I don’t have much of an intuition for what these values should be (though the neff and ng values feel right).  The poling period feels a bit small, but for GVM and GVD, no idea.

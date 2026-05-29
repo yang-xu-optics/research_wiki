@@ -13,7 +13,7 @@ While we have a short-term plan to test slightly higher O2 flows for cosputterin
 
 These people co-sputtered Y2O3 and HfO2 to get ferroelectrics 
 
-![Image.png](../../assets/fab/2025-10-24-co-sputtering-literature-search-001.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/ED0092EF-866D-4E80-AB02-4675F5C14610/744A9CCA-D7AD-455D-A9EF-49E07EDF7289_2/3lw6DoswbezZGvb5ba9SSxLxCJIXWvYzyyy6qPTje9sz/Image.png)
 
 First major difference is they use dielectric targets instead of metallic targest.  Fwiw, even though I know most people use metallic Al to get low-loss Al2O3 films (because they want lower densities), there is a fair take that this metallic approach is actually quite off for co-sputtering.  At least they are consistent with varying power to increase or decrease incorperation.  Given our current deposition rates, however, I would truly expect that we are getting quite a bit of Hf.
 
@@ -23,19 +23,19 @@ We had decent reasons before to assume that 180 W of Hf power was giving an equa
 
 These people co-sputtered ZrO2 and HfO2 almost the same way we want to (though they were looking for ferroelectric films, so not quite the same).  They to use dielectric targets though.  This HZO is thing is something Ryo has connections to at U Tokyo.  This paper claims to be the first to look at ways (other than relative power adjustment) to get better films.
 
-![Image.png](../../assets/fab/2025-10-24-co-sputtering-literature-search-002.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/ED0092EF-866D-4E80-AB02-4675F5C14610/C90E4C4D-68E9-4C20-A90F-F468704B3F4B_2/WtZH2wqqC3bj9ZcGW7wzzCvG163P6aQg1fmXESlMZFAz/Image.png)
 
 They mention the problems we kinda know about.  Their source on cluster formation was not helpful, but the vibe I get from chat GPT is that this is where metal atoms bond to each other before reaching the substrate (as the atoms ideally reach the substrate one at a time).
 
-![Image.png](../../assets/fab/2025-10-24-co-sputtering-literature-search-003.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/ED0092EF-866D-4E80-AB02-4675F5C14610/14EC68B3-48BA-486E-803E-B8C444158A7D_2/iGYttSDyXowNNBNOEoPxjFrP7fV0WmHjeV3ehlpOQTEz/Image.png)
 
 They also presputter.  I don’t think this is critical (and our wait time before might effectively be doing this), but it is still a trick we can play in the future.
 
-![Image.png](../../assets/fab/2025-10-24-co-sputtering-literature-search-004.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/ED0092EF-866D-4E80-AB02-4675F5C14610/D2F22565-912C-4B89-AC46-CB9A488053B5_2/0MqFC58oQAVNyaIz6CENJD3DaZNqK6rxN8962zc1T60z/Image.png)
 
 Another annoying possiblity is people do seem to anneal to get new crystal phases of HfO2, so we may want to deposit at a lower tempurature.  Of course, this runs a bit counter to what the Dutch group did, but whatever
 
-![Image.png](../../assets/fab/2025-10-24-co-sputtering-literature-search-005.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/ED0092EF-866D-4E80-AB02-4675F5C14610/79237DF1-DCA0-42E4-968D-8EC99573F932_2/4KURa2aVv9yh43vVSK4iusCvdpGB5TNDv7bW427HwuEz/Image.png)
 
 Above shows what happens when you co-sputter HfO2 and ZrO2 with different oxygen ambient partial pressures to Argon.  While this does give a denser film (which we like), it seems the main downside is we still have crystals.  This is not perfectly analagous to Al + Hf, but this still has me concerned that people are not getting amorhpus films with Hf.  And given that there HZO films are like 10 nm thick, I wonder how easy it is to simply go thinner.  
 
@@ -43,7 +43,7 @@ Above shows what happens when you co-sputter HfO2 and ZrO2 with different oxygen
 
 The elitist in me wants to say this article might be a bit BS, as it is from Scientitifc Reports and the english is at best a bit choppy.  Nonetheless, the actually science seems solid.  They are trying to n-type dope WO3 using Ta
 
-![Image.png](../../assets/fab/2025-10-24-co-sputtering-literature-search-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/ED0092EF-866D-4E80-AB02-4675F5C14610/42611BC1-4840-415C-8F18-897D2579115F_2/kEIyqa6v3WhrJD4Fd8sqY7McQyHg8jMaDMZFK7k1Mygz/Image.png)
 
 Shockingly similar to what we are doing overall.  One really important difference is the dopant is set to RF power, not DC.  So it is possible, in the future, that using Hf as RF and Al as DC is the play.  This is not what others do, mostly because of Arcing concerns.  That being said, I have not observed any arcing yet, so I am honestly not sure how substantial of a concern that is.
 

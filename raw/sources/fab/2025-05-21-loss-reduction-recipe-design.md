@@ -24,7 +24,7 @@ The last one is the hardest to judge.  On the one hand, removing anything that i
 
 For oxide hard mask, we already have some data to get started with.  We used the oxide thinning recipe for 14.5 mins on a full wafer and went from 3.2 um of top oxide to 725 nm.  This means we have an etch rate on full wafers of 171 nm/min.  Below is what the book says
 
-![Photo from Library.jpeg](../../assets/fab/2025-05-21-loss-reduction-recipe-design-001.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/877de097-2c70-378b-6e47-2fb825df6aab/meTIwhYXpf0pC2YSc7BvTNxVvCRhAy6BJ5L6YnIsNR8z/Photo%20from%20Library.jpeg)
 
 It claims to have 2.5:1 selectivity to resist.  So if we use 600 nm of resist, we could have 1200 nm mask.  
 
@@ -50,21 +50,21 @@ I would start with my first rough calculation.  It is not perfect, but we roughl
 
 For the trial of this recipe (for characterization), we need to use in-hosue PECVD (mostly because of the delays with SVM).  This gives us the chance to try some new PECVD recipes out for loss.  4.5 is probably a bit high. We can try SRN 3 and SRN 4 on for size and see how they work.  It would be nice to double this experiment as a way of seeing (with ASML) what minimum losses we can achieve without high temp annealing.  For that reason, I am avoiding Takachi.  Below is the Cauchy fit for SRN 4
 
-![Photo from Library.jpeg](../../assets/fab/2025-05-21-loss-reduction-recipe-design-002.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/f237c318-a4f0-788d-409c-b61729f2a8c8/2sbE9xw4oqQKorUbyKScF3Ttbkvd0twHGQC18yfFrQkz/Photo%20from%20Library.jpeg)
 
 We can then calculate the index as 
 
-![Screenshot 2025-05-22 at 12.16.27 PM.png](../../assets/fab/2025-05-21-loss-reduction-recipe-design-003.png)
+![Screenshot 2025-05-22 at 12.16.27 PM.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/3C1D484E-D81C-4DD8-A642-15CFD5479452_2/getpsx0CTqf9dXRzBFcwf2RFL3dtkXOZG8rTgQu620Yz/Screenshot%202025-05-22%20at%2012.16.27PM.png)
 
-![Image.png](../../assets/fab/2025-05-21-loss-reduction-recipe-design-004.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/E97BE4F3-5E74-4BC9-BF6F-808568BFD66C_2/XecQDyKXOqUG2yHBJwy989ynCfOMLPkjdOSVmnzYO9Ez/Image.png)
 
 4 seems to give us an in-house recipe that is pretty close to the SVM performance.  Honestly, I am a but less interested in 3 at the moment than 4.5.  If I extend these plots, we get
 
 4.5 Cauchy
 
-![Photo from Library.jpeg](../../assets/fab/2025-05-21-loss-reduction-recipe-design-005.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/77b3816e-c343-7226-5e16-a3065c81eef8/6n6f8BB2Rkbfy7drGf5fqX46D5DlcQase1P6gfP8eCUz/Photo%20from%20Library.jpeg)
 
-![Image.png](../../assets/fab/2025-05-21-loss-reduction-recipe-design-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/37E214C8-BD5F-4B16-875B-35573918BA40_2/VGa5FdlUwhlUyFG5MYxlexhMVjYra82uyfRFzZIsqd8z/Image.png)
 
 It seems 4.5 is a bit high.  There is no huge parallelization between doing one or two waferse minus getting more information.  There may be a fair argument though for doing 3.8 and 4.2.  Eh, I am going to trust my gut and do 3 and 4.  This should give a strong answer as to whether higher or lower index is better, or whether 3.5 already hit the goldi-locks zone.  For now, we will still flow hydrogen, though I am certain this is not ideal for device performance.  
 
@@ -72,10 +72,10 @@ It seems 4.5 is a bit high.  There is no huge parallelization between doing one 
 
 Below is leakage
 
-![Screenshot 2025-05-22 at 12.21.48 PM.png](../../assets/fab/2025-05-21-loss-reduction-recipe-design-007.png)
+![Screenshot 2025-05-22 at 12.21.48 PM.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/30010DEB-E1E1-46FA-BF79-75594FFF2FB5_2/Owf90XrNqFG4qeZZe1mT1cRm3bMqRMZ9vv9Mx58ZW7Az/Screenshot%202025-05-22%20at%2012.21.48PM.png)
 
-![Image.png](../../assets/fab/2025-05-21-loss-reduction-recipe-design-008.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/F9494F1F-0257-4114-9B39-F6259917FBE2_2/RZJxZMXqg4yfQ0j3UyMeBrzUxzpmmlAPL7WpEhOKI7Iz/Image.png)
 
-![Image.png](../../assets/fab/2025-05-21-loss-reduction-recipe-design-009.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/2B7B0D94-448E-416D-B92A-D007047CD369/DEF2ED9E-EAF8-4A8C-A9AD-3BFA38476BCE_2/jFFCcneo7l4XasivCzHffdtJYIWvSqK9Cyi7sQ0Yz6Mz/Image.png)
 
 SRN 4 roughly has an index of 1.96 at 1550.  So 1.5 bottom is good, but just to be safe (and because oxide deposition is so much faster), we shall do 4:40 mins bottom oxide to get 1.75 um.  This should allow us to get away with 800 nm in both cases.  Keep in mind, this comparison is not perfeclly comparable, as the lower index has lower confinement, but it is a heuristic to get started with.  We know SRN 4 has a deposition rate of 41.6 nm/min and SRN 3 has a depsition rate of 34 nm/min.  So we deposit **SRN 4 for 20 mins, and SRN 3 for 24 mins.**  

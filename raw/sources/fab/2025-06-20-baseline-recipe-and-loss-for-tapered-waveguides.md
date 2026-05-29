@@ -24,65 +24,65 @@ In previous studies ([https://tdwg.craft.me/9TKpCasWHuS8oN](https://tdwg.craft.m
 
 ### Photolithography
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-001.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/43861E11-FAF0-4BE8-9E9E-8031B0567E46_2/zj3kyb6geJV6vTbysES7TGabDr37nxR3jvZloIqxHGwz/Photo%20from%20Library.jpeg)
 
 Oxide top, Cr bottom 
 
 Arc
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-002.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/0B22039F-0370-456F-AF70-DF84190AA11D_2/0xHCEnLbIE2uSqX4ClQ076RXSaLNxXWS65drceHKwzAz/Photo%20from%20Library.jpeg)
 
 We first run the thinner coating on the Cr wafer, so 600 nm
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-003.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/731DBEAB-1482-4C1C-B737-563AFC268F38_2/DAIYVRXSoy4Dk1h265ACy6seY7MnET26XMjAYvxN9gkz/Photo%20from%20Library.jpeg)
 
 We then run recipe 1206 for thicker resist on oxide.  I don’t see any issues with ARC coating at the moment.  Resist coating was a little bit nonuniform, but this could have been from the markings left from the sputter.  I don’t think this is out of the ordinary from what I remember
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-004.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/3DB18923-DD7A-4FA7-9969-0160D4819D27_2/29nRutlwis1C5UCHiu6HZBxf3po5rAxK9l48ZGjU0SYz/Photo%20from%20Library.jpeg)
 
 Before thick resist
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-005.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/880271B5-2E21-4500-8F70-F51E3F4AC6CB_2/lf6Gft0Ity0iaFxOzzUlSoQLtEVcYVh8gU5yGhFYyc4z/Photo%20from%20Library.jpeg)
 
 Before edge clear
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-006.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/E8124557-51E3-4739-950E-76F36EE36CC2_2/r9b5pclEMnEG2s3EyHEfUmxaZ0WzDWjP22V3LF8pS4cz/Photo%20from%20Library.jpeg)
 
 During edge clear 1
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-007.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/106EEF62-3973-4D18-A5C1-A3D8042AFFD0_2/WESWHgahCxHEixszxsg6Y1rraiiJ7NNLplPnVXmXDz4z/Photo%20from%20Library.jpeg)
 
 During edge clear 2
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-008.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/75E97901-13AA-467B-A15A-DFF721B56257_2/zdKiIib7QZrsQ9QOstWzbhY8PXhPXd9tmgFUOeAEQksz/Photo%20from%20Library.jpeg)
 
 We read mask
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-009.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/C3291E17-43B7-4104-B161-78BD7625FCE0_2/Oym6PeFuCxEd7owboO30h3sx5iipG8X02gSbQY88XXoz/Photo%20from%20Library.jpeg)
 
 Before exposing Cr
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-010.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/8A69A3F1-9662-4F70-B5F1-5B80DF588F86_2/sfJ0xlwJC51asQykfmKZMLWySc2a0KQ7s8VFvCMwXE0z/Photo%20from%20Library.jpeg)
 
 During Cr
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-011.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/0FCBB8DD-2CE6-4550-9D5A-30E1F543E03E_2/dwL7h3tGA34oqm1J55xPQDZJi3EQ9wdHznyEDaJFtEsz/Photo%20from%20Library.jpeg)
 
 Before exposing oxide (use dose of 20) and changed all images
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-012.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/2D18C142-9E6B-4813-870B-8F2D0647D6F4_2/VQXNjoWIyUAMS96R491Rjux1AgysmtdGV3plbzLMcUIz/Photo%20from%20Library.jpeg)
 
 During oxide
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-013.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/63AD41D6-2622-4850-80CC-92DD11DC57A0_2/kyROsPPvorTItIZ1xcfKNROqiX2yaZZUa0J2xN13zqIz/Photo%20from%20Library.jpeg)
 
 Before developing 
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-014.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/3A461B69-AACE-47EE-B084-B562707844DF_2/VEL80fW5R29KhqnqpBzFyMa48fqQ7F7VHd6d5Ejg6Bsz/Photo%20from%20Library.jpeg)
 
 Once more, Cr does. Not fully expose
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-015.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/6479A5BB-CCF9-412E-BBA4-C679FFB340F0_2/uwhkkH0kKrvFXvsEyM0PpAxxTMSwp7pilmFraZlmUjUz/Photo%20from%20Library.jpeg)
 
 Let’s do 1:20 descum on both and see what we get
 
@@ -90,7 +90,7 @@ Let’s do 1:20 descum on both and see what we get
 
 We clean 82 for 5. We now do 1:20 descum on both wafers
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-016.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/6B28815B-6116-4B6D-BE00-DF05FCF8267E_2/ty9LAxtdqE6xcbo0J5BlRirQ8whecqJJYj2VqCOmtlEz/Photo%20from%20Library.jpeg)
 
 Plasma during process
 
@@ -102,23 +102,23 @@ Let’s measure resist thickness after on thick wafer
 
 After 
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-017.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/11F563D2-76EF-4372-919F-049F1C54B934_2/4a5SkU45yQf35W1xJhyETeYNJfdQT7sGWG7Pmq8p3r8z/Photo%20from%20Library.jpeg)
 
 Profilometer
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-018.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/C809646C-1BD3-4DC4-97E8-25B6C425D063_2/i51Fw4a2USWX5HyfQIIHZ0oPoSbcm3KOl8py979Oepsz/Photo%20from%20Library.jpeg)
 
 Very consistent
 
 5 days later, resist broadly seems fine
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-019.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/C5D50E95-0C18-4FC4-9F7A-A1062CB8789C_2/RZh5yKtgabAiF7QSRkJE04Mva88FNA6IApo7SNAItgAz/Photo%20from%20Library.jpeg)
 
 We will just do Cr wafer as truest baseline
 
 100 during 5 min clean
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-020.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/213A600D-56F7-46F0-9781-667675947E6A_2/NBDrWalxzXM1fZ91a9ovZzhwDcCMPHOPVy12bnBQlVMz/Photo%20from%20Library.jpeg)
 
 Good cooling
 
@@ -126,17 +126,17 @@ We did a 4 minute season, then a 7 minute etch
 
 Before etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-021.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/DBF140BE-ED07-4090-BB61-D4A144A31B51_2/QYrg7xmy5ml0I2J6SrRrBlfIzUZhZOjsLU8d4VsLTKYz/Photo%20from%20Library.jpeg)
 
 During etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-022.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/9CB36DE8-3582-4366-AA21-3F3CEC4DB995_2/PyrJpRHrkWycdh3QjKN1aTHbOXrVsTkKNJAWth97ABYz/Photo%20from%20Library.jpeg)
 
 After etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-023.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/760DFF0D-C7A6-49A0-897B-EAF3B151DDD8_2/8NoeMOxpw3i5klR3oqqYVGUWkjsj4beJEmQmyxpTbFwz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-024.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/B664A857-8A8D-41FD-898D-FA46AC74C3D2_2/ZKcC3fFdg4F7KLBYxPZPmIPx0Gx0Qw6f6296BXYwsIAz/Photo%20from%20Library.jpeg)
 
 This is ~100 nm shorter than last time.  Frustrating, but I don’t think this is critical.  Last time, I also looked around a waveguide, not a larger step.  We will just have to see.
 
@@ -144,37 +144,37 @@ I will also do a piranha clean of my wafer after the acid etching.  I don’t th
 
 Before piranha clean
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-025.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/24A34A29-1486-4CC7-B43A-ECD0CE49DBD5_2/7iKHkmomMnJ1sJ3mMPsnaqrxFTEORF2DOyxB6ma5x04z/Photo%20from%20Library.jpeg)
 
 After Piranha
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-026.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/DD7CC042-5D3D-4195-B62E-854E9EB5EF9B_2/db2JD2C5RQNz7SB333It5eyfiy4lkL3krZZzZTWciZsz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-027.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/B38D9928-8488-4947-BE8E-12AA9DE9BC7F_2/4tKPvTRbhvdfiFtFCTCdQ9BRU5zVaprbGZ4Gu6ty6o8z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-028.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/DC17397D-BFE3-4CCE-B8C5-AFB922263414_2/rQTAfYzTrUs2YXQoxapSLhypZEgXeq1htvr1xkCyVFsz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-029.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/54BE4BB1-A907-4AC4-BEFC-8DA6436675E0_2/O31NM5QspLNXs6uzEffeNcRNRCMWpoMqNPgCHgDqSx8z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-030.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/23370333-80EC-4848-8982-9A92CC1A32DD_2/X7G5SQflzkX5Aq86zywpLWlv4QbYbaPWSNydd1Xu6KYz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-031.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/5510A710-E0BA-4108-B3BA-5335AB078735_2/ltP76e8nwfqnUxrGDjWDMwZpUZr7O99IYk2afBibbycz/Photo%20from%20Library.jpeg)
 
 Still a bit of micro masking
 
 Before Pecvd
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-032.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/71E31A8A-DB31-4B69-B793-13AF24C56EAA_2/5b3OPWSBdwxzxxTAGwjludBDOgjH3fByoc9bftY4Mvcz/Photo%20from%20Library.jpeg)
 
 ### RTA
 
 During calibration
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-033.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/DACD8076-DCEC-4191-9293-DC90EC538146_2/vrNH0OUiPXnqpCfCpOkQhu6xt8DZRJIoo6CDjcWVxBAz/Photo%20from%20Library.jpeg)
 
 During main
 
-![Photo from Library.jpeg](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-034.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/AFEA5993-06CF-445E-B14D-D4FE67117F19_2/yTiVblrWq6yQ1UnxpzvxLfjTnTzhEiLkhA1Cfuqbth8z/Photo%20from%20Library.jpeg)
 
 Half the chips don’t have RTA
 
@@ -244,7 +244,7 @@ Long circle
 
 50 uW
 
-![Image.png](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-035.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/F99EBB50-6A59-4A4A-8BDA-978D191E78FD_2/g06cpt0ZExvfx01KeLFW5zAO6snQQt0nyx36YE8jsfcz/Image.png)
 
 Not a perfect calculation, but ~2.5-3 dB/cm feels right to me
 
@@ -280,7 +280,7 @@ Long circle
 
 30 uW
 
-![Image.png](../../assets/fab/2025-06-20-baseline-recipe-and-loss-for-tapered-waveguides-036.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/7CA1AE59-4B37-4AA8-A260-87A62519919D/481C3E11-07AD-40C3-BB71-258C6F2269EE_2/uWEVy73NlOa8SxB0ms5uyCI8IQXRxHJx4CQeeQob9xUz/Image.png)
 
 We don’t really need to run the 2um waveguides, as I can’t get the idea above.  We roughly get the idea that the waveguides are still pretty lossy.
 

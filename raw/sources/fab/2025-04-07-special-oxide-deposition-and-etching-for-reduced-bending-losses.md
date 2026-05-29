@@ -27,7 +27,7 @@ Below are the steps:
 
 Below is the etching recipe we want to use.
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-001.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/696fb160-0893-a92c-adea-89ab784f0767/F04HayeynvxpddoXEsmPohTWv1wG7oendD34Lb7jy6wz/Photo%20from%20Library.jpeg)
 
 We want to use the four layer device wafer box!!!
 
@@ -41,15 +41,15 @@ Beginning part of the process
 
 15:15 Acetone bath
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-002.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/144DED71-E2B4-4221-A10B-09F0DAF0B278_2/rKNyIptxwbaY7ZOK8snk5aAxwrDKykQVhwibgQBkJ6kz/Photo%20from%20Library.jpeg)
 
 17:43 Logging into the tool
 
 ## Precleaning
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-003.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/CE5B8EA3-5C1C-4086-A270-F17C8E160E7D_2/8SUMu8nIMCBkh1SscDPI83k6vRWKZppfrpCwnTz0zlAz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-004.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/403907CF-AF42-4F6E-91DA-AB63EEDAA041_2/MHp2yt8yOpaxu0l38vKYVEZgErybqQ5nkTcYNpMcx4Uz/Photo%20from%20Library.jpeg)
 
 5 mins starting 17:45
 
@@ -57,9 +57,9 @@ Beginning part of the process
 
 We use CNF CMOS TEOS
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-005.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/829F0E07-BB56-49CF-BB5B-F26DE58A0701_2/xEhTYhMiuTSUE6tIV9D8v615yT7kbR5HBJMeKlU2x1Mz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-006.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/2BD2E39F-FD46-4501-A429-1DD16DBEABD9_2/DSh03UuY2HiQzDJ1OxY5qDZRm367RKHvIGsryujtZBUz/Photo%20from%20Library.jpeg)
 
 17:54 Seasoning
 
@@ -71,71 +71,71 @@ This time, I’m not setting the heating to 12 mins. We do it for the main run.
 
 35 mins
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-007.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/F49CDE67-4367-4BA3-9FF6-94ECC352EDAE_2/RXHyod3LSgYNrfhaqczhdDB0kswCg6KQcpMOWM0eWSAz/Photo%20from%20Library.jpeg)
 
 12 mins heating
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-008.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/770B322E-7709-415B-B576-101A011EEC45_2/ZjTVGyIQWpllLpDMxHReyWguEU6QHuFAPiXPm5XgXNYz/Photo%20from%20Library.jpeg)
 
 35 mins dep
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-009.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/6052E14F-D5E1-4D08-A742-8240397FAD0B_2/cePNC8VBCF0DLtax9FJyixiPoUqEdvjVfBurHuOYfKMz/Photo%20from%20Library.jpeg)
 
 18:04 Starting
 
-![Drawing](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-010.jpg)
+![Drawing](https://resv2.craft.do/user/preview/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/4610F8D3-0FB0-4B59-BC5A-733B6D31F02B_1/gTuAmtRCZIqEqKv0P7GoHUYG0p8ZOQI2cxxYgMRtibgz/Drawing.jpg)
 
 This will put extra 1.5 um of oxide
 
 18:54 Finished
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-011.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/4032E7B1-013E-4620-AF29-6737ABB07F89_2/hcO3tZf9cAjGSFkw0Yh469q5IxT2EyQYJCTuV8pEt4kz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-012.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/D265C387-6348-4B76-A311-85E40460EB74_2/wxw8HGSa7HBXnKReWH9c7QubRcLzMNSPTm01WmXBVlUz/Photo%20from%20Library.jpeg)
 
 No oxide? We need to do this again.
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-013.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/9B961308-D44A-4EF2-A139-F057BDF591DC_2/YiKJBGuAWYq6HRMgHUkv6eZAU9tlG1MBHkxnzUOmckYz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-014.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/5C5CAF46-70C7-4641-B9E5-29B04574AC50_2/eO5tdc9H4oEHExRLA0snNGvVT68i8w4Ngy7LpFqFJvAz/Photo%20from%20Library.jpeg)
 
 No clear indication on how this went wrong 
 
 ## Cleaning
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-015.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/0194499F-1662-422C-B8C9-310FDE3EE78E_2/eDCbfBmyUGKyya07IY63wPYnC9eRlKByMkZUqN2tfiQz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-016.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/015F58D2-BB54-4510-8F8F-BE7CFBA928FA_2/e5n4lP4bhAOPLvZ5wbuWJhCZAAU6SqHxJoYnXjGM0Zsz/Photo%20from%20Library.jpeg)
 
 We skip this process
 
 ## Retake the main run
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-017.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/6FC18572-BBB6-4530-BAB7-990974599480_2/1otrLc1OayRBgqSeQ0xxYduzIVmBDQ9CCsmv3KxnJzsz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-018.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/79B884E9-EA1B-412B-8F56-7024E5A0A1B2_2/j4XsPDpobznaAF2HBi2GhLydYq1YySGmsUfL8in4qYgz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-019.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/D62C874E-B831-405D-9742-76AC8D39EDDE_2/YaEyHQVg67boYxVICBBm8inEIXdbKzh4AiuSOPF2SWgz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-020.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/F9AE7404-9C8D-4AD9-8CDE-B3E8ED7597B9_2/UOFYKV1uJEp6hWTqxrGOy0RFLKNDWOgdXghSlhdy588z/Photo%20from%20Library.jpeg)
 
 12 mins heating, 35 mins main dep
 
 19:22 Heating finished
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-021.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/1BDD664C-0635-459A-8A4C-2913E994A074_2/6CJ4Rf20EOTUWjYUlHz4T7Xk99cNlPTbzYQTRwtVsw8z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-022.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/805FE56B-DFCC-4825-91AC-4E28DC7F19CC_2/jKCQQpcZwp6G4VnMqH7Y3JZPpmTzSnvQkysIO3cNOAUz/Photo%20from%20Library.jpeg)
 
 
 
 We now start the pre clean for 13 mins on the Oxford 100
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-023.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/9E9A42A9-47EF-4A2A-8FBA-2A8C71D19DA9_2/we0gwYZUBEr8Wh5hv4UoIOzGoWorkGp8sxqrg0xdEE8z/Photo%20from%20Library.jpeg)
 
 Reminder of recipe below
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-024.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/F8D8D74F-3EAF-4EBB-88B6-0849EFA2C769_2/QipHxXrc4CeO9xoaJyEy993OmTYAApoD2ZQiSCBnNiAz/Photo%20from%20Library.jpeg)
 
 Oxide and nitride are the same
 
@@ -147,7 +147,7 @@ I am running a 5 min preclean on the PECVD.
 
 Jeremy recommends we use the smooth recipe, pictured below
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-025.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/98B0158F-F3A4-4EFD-B04D-0804AFC00A91_2/dqFoztNVNh4mxsXC9AtsZGYpIyIhi8SaVvUKJZ3Q73Uz/Photo%20from%20Library.jpeg)
 
 I will run with witness sample to get dep rate
 
@@ -159,25 +159,25 @@ I will run with witness sample to get dep rate
 
 2 mins
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-026.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/36F58925-27BA-4DDE-8FFE-79AEA8B8CF85_2/Y9Slc3y6pry0oLKV4yBD9ioBwOT1w6GocraLcxrTK7Mz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-027.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/D2F0125A-0CFE-4A1A-A208-8C09B6063857_2/zLVi8IYCfuwNLuwdHyZEwiD8yM4AGIVaQ36kop7sF1kz/Photo%20from%20Library.jpeg)
 
 16:08 Seasoning starting
 
 16:16 Finished
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-028.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/10E905AE-3F30-4F37-9578-A1CC274471AB_2/s3TKJWh4yYn6HM9u2k5Du9Kqh5hCybIE8U0pu4Skjtsz/Photo%20from%20Library.jpeg)
 
 330 nm per minute. This means we need 15 mins 10 s of deposition
 
-![IMG_0592.png](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-029.png)
+![IMG_0592.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/18DC9871-F352-44FC-B4D0-1474FE1B6683_2/nNDWRNbyZWeYvHDXvqSG77RjlQDUWzjjYxcMgDlU5Kgz/IMG_0592.png)
 
 ## Main run
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-030.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/D38F9EE3-0D27-46B2-B75F-45FF44CE0556_2/25eXA3IjFB62kPLxRqxsBheGJc57W48oou5HWCEUdaEz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-031.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/985A2A71-8438-42CB-B669-2F4FA420F8DC_2/6b499Ip9pMKHpwDIW7fbrAFB0JKe650THy0zUr3QJAkz/Photo%20from%20Library.jpeg)
 
 We aim at 2.5 um
 
@@ -185,9 +185,9 @@ We aim at 2.5 um
 
 16:42 Finished
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-032.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/3F4BBC56-DA2E-408B-8CDC-376D73604EFB_2/LwxVuZIElx15zpj3tA0yJxtsCOi5qfxTwinN8raKR34z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-033.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/45ACEBDE-BA5B-4088-8AAE-F7888EC4BD7B_2/xluGN1AyCrtpdxkilNdVMtxkzE7h6CzMyUq6ejg0kbgz/Photo%20from%20Library.jpeg)
 
 2615 nm.
 
@@ -205,19 +205,19 @@ I am running a 5 min pre clean on the Oxford 100
 
 I am going to run a 1.5 minute season of the Oxford 100 and put a witness sample in to verify the etch rate
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-034.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/250ACA82-C600-49C4-8EE9-6DB87FCEA989_2/GIOkq4sZBuY9eY3cZwBnZykjpjM3uEE6HUXkK09KaQkz/Photo%20from%20Library.jpeg)
 
 We use the thinner
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-035.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/C7D32200-DDB0-4256-8C3F-BFA3929774F4_2/klPO7Wvw91RdsSeI2qRYzoSyhZ49xPX87lygPHcLexoz/Photo%20from%20Library.jpeg)
 
 16:54 Seasoning finished
 
 16:55 Venting
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-036.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/1635410B-165A-4A17-B859-9A925B0F3B20_2/GFmZx7lAV3s3dcqSYhpI5GxMF3Spyw4yvTpRF51Ewb0z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-037.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/556BA6E1-DE23-43A6-83E9-A650CFF2AD62_2/n0d9pukMTLE5XutQZboEq7wVc0YjtnfiLHxgQFupWlgz/Photo%20from%20Library.jpeg)
 
 115 nm. This is 330 - 115 =215 nm etched. 215/1.5=143.333 nm/min
 
@@ -225,25 +225,25 @@ We use the thinner
 
 Before etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-038.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/E05220BC-EC41-4778-B096-7EC5E7CF285F_2/hbhBTQxQx17LWUE5yUke99pBoiadYrNLu4sfJ9n6GX8z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-039.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/5DFC624A-2586-4708-BDF5-BE1F38CD89EC_2/o1PQzZlXPiy9sdCOqmbpCYz7VqBXYnhI2bb1E9WhqB4z/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-040.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/DEA217AB-1691-43AB-AF88-B43DD9DD099E_2/icYwJ6Ugd0SJzLx3EhvR7ah9Px6s9Syqkuv3gmiMgDcz/Photo%20from%20Library.jpeg)
 
 Plasma on
 
 During etch
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-041.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/280FA174-F997-4B0F-BF6A-CEC4C06C6BEA_2/j2NimxSqYg3MKjgm48KEIxMe4ID7SmyvihRHfzFFO40z/Photo%20from%20Library.jpeg)
 
 17:23 completes. Stop and vent
 
 17:30 Cleaning. 15 mins.
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-042.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/A8244F8C-4B29-40B4-9417-5E4CCBC66225_2/Zx3C6sqOAinDMg6sSjUPXF8nJEf4gz3E8egWan32BEoz/Photo%20from%20Library.jpeg)
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-043.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/464AEBDB-1ED0-4AA0-ABAD-5E0A4723007C_2/IzPLiC9iERYTkvGmzSu2tjVHMkSzEzdYyGNQsci3gnkz/Photo%20from%20Library.jpeg)
 
 Almost perfectly 1 um!
 
@@ -259,7 +259,7 @@ Using the IR camera and 1570 nm light source, we measure the propagation loss of
 
 ## Snake waveguide chip
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-044.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/a9ed212b-716c-dbd3-4c52-f32af95fd958/CGJQpAu4tPJhMJG7LvGfGXdvf0Mde7LKWzy0skCWFJIz/Photo%20from%20Library.jpeg)
 
 ### First snake
 
@@ -325,9 +325,9 @@ Using the IR camera and 1570 nm light source, we measure the propagation loss of
 
 Below are the loss measurements for thick oxide claddings 
 
-![Image.png](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-045.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/93f8dfd3-ceca-5fc3-843f-1265021734b8/7yUf9bXeLlm1Bgd4I7BVLjTkfxJDUqtnxGASqwD02Noz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-046.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/be6098b6-1157-d74e-375a-f5773f594738/xw46ygMjKzaHCOS4aPanMWBrAz92ZjGyoAxdvblHhuAz/Image.png)
 
 
 
@@ -373,7 +373,7 @@ Quite challenging to selectively couple light into the straight ones because we 
 
 2.7 mW / 49 mW = 2.7/49=0.0551 
 
-![Photo from Library.jpeg](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-047.jpeg)
+![Photo from Library.jpeg](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/05B99522-6271-4632-8627-172FC50F4A93_2/sk8tSJQWUkOx3CbAcsrZZLsKS3MrjjMHGEt2wNX8FoIz/Photo%20from%20Library.jpeg)
 
 Somewhat very good coupling and also the mode is solitary.
 
@@ -403,9 +403,9 @@ We move the beam up and down. Moving the beam up couples the light into the weak
 
 
 
-![Image.png](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-048.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/DF23D846-E58D-4694-A7DF-69E09CDB3410_2/9q1TpTr7oPNxiKLrHbE9TFqhhO5TBUj6F6WLjKnZMxIz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-049.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/B59D2EEC-5742-470D-9BF5-A0F17BFF4C22_2/mYeV24vs7cnyLrzSC4U4xeFlxTO1vaMC5cRUIy5eDOkz/Image.png)
 
 From snake data, it would seem we have very similar loss to before.  It is slightly higher than we would like as baseline, but that is.  So thick side oxide seems like the trick
 
@@ -435,7 +435,7 @@ From snake data, it would seem we have very similar loss to before.  It is sligh
 
 0.32 mW / 49 mW = 0.32/49=0.00653 
 
-![Image.png](../../assets/fab/2025-04-07-special-oxide-deposition-and-etching-for-reduced-bending-losses-050.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/CABA1948-4897-432B-840C-3E02E2383972/19D8141A-CBE8-4152-B96C-F5C4099EF16B_2/nOAo3zOZsI5hFaV5KZrohQnRriK2kkkCHYSqgEht2N8z/Image.png)
 
 Interesting that we observe again that the longer difference, the lower our loss guess.  Either way, I am generally confident side oxide worked.  Below is the full document for all these loss calculations
 

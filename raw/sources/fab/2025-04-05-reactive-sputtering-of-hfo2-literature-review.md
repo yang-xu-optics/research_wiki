@@ -11,15 +11,15 @@ We now roughly understand (both from literature and from experiment) how to depo
 
 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0040609012008863)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-001.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/FE70B965-2B54-4949-BCBB-CF662218A04A_2/Aeg90vkAT2HzeGmP5T9rKEx0DRc7NyvByxtyNAxr52oz/Image.png)
 
 O2 = 2.5 sccms, pressue = 9 mTorr (once units are converted).  Ar flow = 22 sccms.  Temp = 300 C.  Power = 30 W
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-002.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/1476E427-50D1-4A82-9D0B-DD22871932EA_2/xRkSH8YXnF4y1Ax7P0wa4K0RHGfHDIsn7KNo0SS440Yz/Image.png)
 
 It seems you can sputter this quite thick, though I imagine it starts to crystalize before these points.  The rest of the people did not really give me many characterizations that were valuable.  Below is the index data, but everything else was not really useful for us.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-003.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/58D30B02-9AC6-47F6-888A-434A93E8C57A_2/n5PCqV0DcmdJ89gTnzIKAjaY8uxuu4FdRSRZIhwtRYcz/Image.png)
 
 The above used DC reactive magnetron sputtering by the way
 
@@ -27,19 +27,19 @@ The above used DC reactive magnetron sputtering by the way
 
 These people use DC reactive magnetron sputtering.  Below is their process
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-004.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/D5D2F59F-315C-4CB1-9072-42690F947AF8_2/qCuVwy8ofD7Ff1xavHFhtAWJE1rOlPjEp4j2Us9AcNIz/Image.png)
 
 They use a bit of a higher pressure, a lot more O2, lower power, and lower tempurature.  They studied how hydrophobic the matieral is, which is not exactly relevant to us, but they did take a few pieces of data that are more relevant than you think.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-005.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/FA8350E7-81E3-40BA-8A31-7979B2DA2387_2/EGQHRnqixqLdZKlhEvCiJJ0qGCbFCcdBscKkrzyCSGsz/Image.png)
 
 Evidently lower pressure is better for us, which we kinda knew before.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-006.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/4F5947B3-E823-4BBC-94B2-9D1A616848F6_2/OMpSaByUYGDnNZStaFp1yKWyzxCQ2Osby5eKcIQZOvUz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-007.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/E6C9D111-8A1A-4555-B083-40103C2E67E1_2/k5VlPrCxcTNBskMJPCFsQ6u41eZ5OeG4SE2VN5RG2icz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-008.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/673FC715-FF3A-490C-865B-AC14913A3900_2/6mCatHDhwV8WTw5Iy1Rv9hEOFacH0ZFUJSYhEhCPZGgz/Image.png)
 
 To be honest, their optical data was not great.  They do not specify the wavelength they got their index at.  At the very minimum, it is clear that crystals decrease index nad increase roughness (which we don’t want).
 
@@ -47,19 +47,19 @@ To be honest, their optical data was not great.  They do not specify the wavelen
 
 Below is the high level description of what they sputtered
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-009.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/FA94F1C0-0726-4398-A00A-F8C16D763DDB_2/BO88yktUxOindj2jb7dp7rcL0JOV6RrnwaDrQioy2owz/Image.png)
 
 Deposition parameters
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-010.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/1F67F396-7468-432D-BC4E-CF176A2B447D_2/FCgktVGNSxMayYMxv15xgcB9f6nyzShlb6fxzyyPWZoz/Image.png)
 
 As a summary, they used 25 sccms of Ar, 5 sccms of O2, and a pressure of 3 mTorr.  Nothing about power is noted
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-011.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/88F675E6-2189-46DF-B766-09FFC59B34BC_2/CO76GNrkpeF1yDqFbcVBpBySescsObWL8oyo0olW9vYz/Image.png)
 
 Deposition rate is a bit low, but I would suspect this is a function of the lowish power.  They deposited 400 nm, so arcing can’t be a huge worry if they got that much film without any issues.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-012.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/E9E7CA29-4338-487A-BC5C-C00B40DB20C2_2/ivxT3m0EyA4UhZLksR4sKvtDPwW2nJyrqtkAH4X8bqYz/Image.png)
 
 While the idea of the composite material is that we don’t see these crystals form.  Still is interesting that higher tempurature causes more crystals to form.
 
@@ -67,29 +67,29 @@ While the idea of the composite material is that we don’t see these crystals f
 
 While this paper seems niche, it seems to suggest there is a way to prevent larger crystals from forming in our films, which would be very useful.  
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-013.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/B2293C38-CA72-4FD2-8B06-FAF6B1A4337C_2/d5nqpvMV9S4ZSESL6xQCt2Ki7Z1nVrUb5MJBdFxkKmkz/Image.png)
 
 They also use DC reactive magnetron sputtering, which is nice.  This makes me believe that we will use Al in RF and Hf in DC.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-014.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/3FF8C4B0-9FC4-4AF8-BC72-D906B5AC16AB_2/LMOQXOx0YMfG9q4FUtxRZF6pxNyvwY1skj3tzIRpWKUz/Image.png)
 
 I am not sure how to convert this power density number into something useful.  Either way, this is at least a confirmation that they use a similar procedure to us.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-015.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/595F86D7-7D2E-4187-B1FE-8A6EB83A628D_2/zyjJBt12HxwFefs7zJWIp1LctO7w0GL9sxOZKrrxrdIz/Image.png)
 
 Apparently we could have some uneven roughness across the wafer due to charge ion bombardment.  Later in the paper they say this is oxygen ion bombardment
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-016.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/D30C94E3-6895-40B6-B253-CD0335093220_2/jaXpoSWdwUcEUgyKmEAFRbW0JRH0WqAffcpH1f4QTkYz/Image.png)
 
 It seems that pressure has a marginal effect.  It some seems to reduce one type of crystal growth as you use a lower pressure.  The main point is I don’t see a reason to be concerned about still using 3 mTorr.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-017.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/8CF5D212-966C-41CA-B637-08144E5042DF_2/7wk6ZVgqpD1sUMDU5Q430KfXGwP5SaH8Nwl4QJuSK74z/Image.png)
 
 Higher tempurature casues more crystalization.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-018.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/247DA6C9-BD9C-4F26-A8D1-947C1B8C73F2_2/XS2jGCl2e3SJefg8yAycsH2cMKYah9yDJxMFxGxHeUMz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-019.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/E1029620-288E-48BC-BE9B-C0BF4338B692_2/XgPx0WQNj4IVy12w0QVO0BBnzA3U0KO9GWXcuG3MMmEz/Image.png)
 
 Two interesting observations.  One is that they use some very high oxygen flows.  It also seems that higher oxygen flows can supress crystal formation.  This gives me some hope that we have a wide window to optimize the O2 flow in.
 
@@ -97,19 +97,19 @@ Two interesting observations.  One is that they use some very high oxygen flows.
 
 This paper seems more relevent to us, even if it uses RF instead of DC sputtering
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-020.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/9B22EAFD-1012-46B7-993D-3EB8143E3C7D_2/cjniY418xfgDkR8cTtvry4sKslIzsBEMSz3mfRSfSRsz/Image.png)
 
 2 Pa of pressure is 15 mTorr, which is kinda high.  200 W is reasonable, though the 110 sccms of total gas flow is a bit high.  They deposit at room tempurature (this was mentioned earlier in the paper).
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-021.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/1A25D1A3-B8BB-49B5-A13F-CFCF550CC376_2/Gk7EFyreJywBfxhqzMagK1BGe5j3NAxHoWoLScmTzr8z/Image.png)
 
 They take data over a wide range of O2/Ar flows (they define this ratio as R).  It seems that higher O2 flows lead to more crystal growth
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-022.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/346FB8A8-4185-4D0A-8B47-F1CFCA69F58D_2/Gj0HyFfoldP8eHxRf3ncMEYdAbJVlRK8jDBqL0UH5b4z/Image.png)
 
 It seems their dielectric constant is rather stable for lower ratios, but gets oddly high for the end.  So clearly too much O2 flow can do something weird.  They mentioned earlier this can lead to larger grains and therefore more porous films.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-023.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/6490A632-6E15-4D4C-8E22-4144335B861A_2/EnS6fP8OJqaFFIMxlxfg7Ov0KqfnIcOEyYNNq0KmrIwz/Image.png)
 
 Another confirmation that there does seem to be a middle point where you get the densest film, but we seem to have a wider operating window here.  They claimed that R = 0.2 was best
 
@@ -117,11 +117,11 @@ Another confirmation that there does seem to be a middle point where you get the
 
 They simply present another recipe for sputtering HfO2.  They do this for gate dielectrics.  An interesting thing to note is they sputter a very thin layer of Hf, which oxidizes, and then continue with HfO2 sputtering.  Below is their recipe
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-024.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/39375C1C-536B-4CAE-9F10-DA61D05E9909_2/cvMyNm4wcOppYVsNByXx7OIAQt69LuxyjsTexeTmhnIz/Image.png)
 
 The important points are room temp deposition, 4 mTorr, 100 W of power, 3.6 sccms of O2, and 18 sccms of Ar.  This is fairly close to our current Al2O3 recipe.   They do DC magnetron
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-025.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/0CE2C95B-BA12-40EF-B6BE-06CE06DC13F8_2/VtG1nui4fsIL98z52H4pJf1KelQLDkQZVyf6hMr9Xnsz/Image.png)
 
 While deposition temp and annealing temp are not exactly apples to apples comparisons, it seems that one set of crystals forms at 650 and another 800.  I am not an expert on the different crystal phases of HfO2, but it seems that the one at 800 is the one that kills Oscar’s work.  It is interesting that this can stay amorphous after deposition.  These are gate oxides, so obviously they are quite thin
 
@@ -129,17 +129,17 @@ While deposition temp and annealing temp are not exactly apples to apples compar
 
 These people seem to sputter dielectric HfO2 (not reative sputtering with a metallic target).  They use an RF source to prevent arcing.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-026.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/395A6B5E-0129-43E6-98B4-EBC133017994_2/OiCgdT78f6Q7ZeMrt6SeReiKej8ip5d9eoUzDxEaHSMz/Image.png)
 
 It is a bit strange to me that they get such an insanely higher sputter rate.  I should also mention that they are going for 150 nm of film.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-027.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/1C55BE1F-739C-46EB-ACF7-F50A7C8C3673_2/2DIhOqaKd6mxpUEIAW99h5h6RR9PChlPemV8peyV5H4z/Image.png)
 
 While this is not relevant, it is crazy how easily you can see the polycrstaline grain formation.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-028.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/8A39876E-DE2A-4DC0-9B46-4847695CA59A_2/dTNLZUG7UYCS2fvVBIcODfj8hwi1OTCPlUivyhOnzBEz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-029.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/9E1C95CD-049D-4450-B158-A82B32522DA4_2/vZT1n24m9CRiOKAnBpWNJoodpvX3IOY6vVy6rkAcaLQz/Image.png)
 
 Again, something of a tangent, but it is cool how they use this bilayer model to fit the HfO2 film.  
 
@@ -147,17 +147,17 @@ Again, something of a tangent, but it is cool how they use this bilayer model to
 
 These people RF sputtered HfO2 targets, but also examined the effect of changing the O2 flow.  This is not exactly what we are stuyding here, but I figure we can add it to the list.  Below is their deposition proceedure.  
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-030.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/ADD03B81-C753-4B5A-96FE-436B7BED7191_2/jPZXs7i6EkKQO7fTERe8WnwM6W1YynDEG6N8J8ql3ukz/Image.png)
 
 Temp = 100 C, power = 200 W, Ar flow = 20 sccms, O2 flow = 0-6 sccms, pressure = 3 mTorr.  Below are the results
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-031.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/1EA2EC21-95D6-4616-8CB1-BB6F7A253F35_2/eSshBIzyjfmcwGhUJ7IS7G4ffy5vmNTuRP3o9LoexTUz/Image.png)
 
 Obviously, they make their films pretty thick.  An interesting observation is that they can reduce the grain size my flowing more oxygen.  So they get a film that is effectively oxygen rich.  They also go pretty thick too.  So I guess even sputtering dielectric still has a chemical reaction.  They seem to believe the lower refractive index from more oxygen flow comes from filling oxygen vacancies with more O2 flow.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-032.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/B06EF068-08E4-4844-BD5F-A80DD605C1DC_2/lKKwGwxOHSp8YnKNrhyAcwmJWMrZW0FHUaIo45qBKBsz/Image.png)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-033.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/B678AA73-355F-4CF7-AED3-522ED3A52220_2/CwXIoJ6L3njUaABsnoCrFiJ3X5HyMiWhJyqrWJ4qyOsz/Image.png)
 
 Above are the ellipsometry fits.  Seems like the higher the index, the lower the loss.  This probably is because the extra O2 helps densify the film.  This is a neat trick to reduce loss as well (though this still has crystals, so we can’t use it outright).
 
@@ -165,15 +165,15 @@ Above are the ellipsometry fits.  Seems like the higher the index, the lower the
 
 These people did normal DC magnetron sputtering of Hf targets to produce HfO2.  Something to note is they don’t scan power exactly, but instead they scan the applied bias voltage.  This means the same thing, but the conversion is not exactly one to one.  
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-034.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/8C2BB33D-F8E0-4778-A33D-E24E4954815E_2/Coanc5in1Foyzwb0TRtiHsifMVgF5mxkVCxeArfQ9U4z/Image.png)
 
 While they don’t mention deposition pressure or raw gas flow, it seems they have an O2/Ar ratio of 0.2.  They use a tempurature of 300 C
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-035.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/26A1E939-7AB2-4522-9FB8-C9EDE737A146_2/XmDXUZyuOPcIC0ZSpO1ScqEE7XKKkqpjEIreupPABWkz/Image.png)
 
 They also deposited fairly thick films.  They gives me some confidence that arcing should not eb a huge issue.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-036.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/86F68F5D-E699-4504-9499-4B567E1250D0_2/TJ4J3n52GCFCImMZhOi5xdBQwYPYMQdc58mtnfJyj7Mz/Image.png)
 
 They note that their films are fairly poly-crystaline.  This is fine (as this is why we co-sputter), but it is good to note
 
@@ -181,7 +181,7 @@ They note that their films are fairly poly-crystaline.  This is fine (as this is
 
 They do RF reactive magnetron sputtering of pure Hf target. 
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-037.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/877F8932-5F73-4891-84D5-BCC2B9B528BA_2/kkfpdUdF1vyafC9X5vvZwfJyPG3qzXyv4DR0RXc8ODUz/Image.png)
 
 They use 5 mTorr pressure, 260 W of power, and seems that (as they say later), they keep tempurature below 52 C by attaching wafer to heat sink.  They see a deposition rate of 0.2 A/s, which is somewhat in line with what we see with Al2O3.  They don’t mention the gas ratio, which is what we really want
 
@@ -189,17 +189,17 @@ They use 5 mTorr pressure, 260 W of power, and seems that (as they say later), t
 
 These people are a bit closer to what we want.  They vary the O2/Ar ratio for DC magnetron sputtered HfO2 films.  
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-038.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/F8034413-8EF9-4589-8E78-20FA36476806_2/TGD4D6Wshg74lsuyyyKBZZFAdsNY5heAoJps1Eb4xjUz/Image.png)
 
 They deposit at 1.5 mTorr (Which is kinda low).  Other constant parameters are not described.  Their deposition rate is somewhat close to what we would expect.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-039.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/AA5EBA95-7E37-46A3-B047-D84EA3106B64_2/AsX9pMykLzG2x9y30ybayrF9T97cMtUtSxH8ihsJYZgz/Image.png)
 
 They seem to stick close to ~ 30 sccms of total gas flow, which is what we already do.  They use a huge variety of flow ratios, but it seems that we can do lots. 
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-040.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/71FAB413-D045-4929-B4B9-EB267F18F4EB_2/NDVN7E2opPTCnFJhZNigVrx9IRPpciygv8gQ0NUEDI4z/Image.png)
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-041.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/6ABC47BC-E33C-4EDB-9857-50531AFE4794_2/kFNqELgcoGSgj4ITIm2U7Zxu0KgKxF604uIky785Xn8z/Image.png)
 
 While I am no expert at reading these transmittence curves in the context of waveguides, it seems that we want higher O2 flows.  1:9 corresponds to a ratio of 0.11, and our currently ratio for Al2O3 is 0.14.  They seem to suggest that 0.33 is better.  It seems like the loss method here is oxygen vacency.  This means an oxygen is missing, and your get more metalic behaviour.  
 
@@ -207,19 +207,19 @@ While I am no expert at reading these transmittence curves in the context of wav
 
 They use RF reactive sputtering. 
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-042.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/98810510-C566-46BD-A0BE-C6311412D32A_2/XeQqGwiip9y7wyFvqlXzkDxxfSOKm5LUUGhvHOt4Fj8z/Image.png)
 
 They presputter and make sure to pump down to a low pressure (we do the latter).  They use a deposition tempurature of 300 C and a power of 100 W.  
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-043.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/0409D1F7-CB8A-404D-A79C-64698E52A170_2/04tyLJQx31eNF2IRjnNQfx12yLKxKajqf8SYN0AXCk8z/Image.png)
 
 From this plot, it seems as though there is a bit of a Vbias curve.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-044.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/491A8E50-A2F7-4E9A-AAED-5BB9BFCB4027_2/2fwCCIXqy8RpJ8ziLm1hCMaOkvS8mlxpQjGwWzH8kBcz/Image.png)
 
 While this is less interesting, it would seem that having more O2 is still better.  I would also not look down on the dep rate above.  While it decreases, it does not go to zero like the Al2O3 case.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-045.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/E59D9384-8888-42F3-B1CF-2203011C2516_2/y7JVRmsjq5wgww9VBxPISEIsY7A18MbNOq7fzFgxDh0z/Image.png)
 
 This shows effectively that too low of an O2 flow gives you something matallic, while increasing the O2 flow a lot does not change the metallic vs dielectric nature.
 
@@ -227,23 +227,23 @@ This shows effectively that too low of an O2 flow gives you something matallic, 
 
 They use RF reactive sputtering as well
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-046.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/84AE74D6-1CC8-458D-ADB4-2597E5AD7A7A_2/S5BTt9bVB9dGpEtu85A1BTQpwxEGvOP31jyetRLbGCIz/Image.png)
 
 Power = 110 W, pressure is 1.5 mTorr.  Ar flow = 12 ccms, with O2 flow between 0 and 6 sccms.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-047.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/B1234A51-7765-48A9-A99B-978541CDA6B8_2/nVkOnosGDTcYCvr29JQwPONNqtmRnezdfTjop0HuR74z/Image.png)
 
 They observe the same kind of Vbias behavior here as well
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-048.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/33D7EA94-D6F6-4F77-93AD-ADD3282C6E35_2/y0DJ1fVCQsPNnarmI1tisOC4L3bxqJi97golMxhYhlcz/Image.png)
 
 Their explaination is that, with less Ar atoms as a percentage of the plasma, the engery of the atoms sputtering the target is lower, so less deposition.  I wonder how this is reconciled with the Al2O3 results.
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-049.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/5FDDBEA6-81C1-42D1-BA8B-6461AD2F4415_2/ERkhiLOtkV5lloheETN8xPMrB9AwmoOKtj8LpA4lsv4z/Image.png)
 
 This is mildly contradictor to the previous paper, where HfO2 had a higher index than Hf.  Either way, this at least confirms we should see some change
 
-![Image.png](../../assets/fab/2025-04-05-reactive-sputtering-of-hfo2-literature-review-050.png)
+![Image.png](https://resv2.craft.do/user/full/c10b6666-b4fd-53a0-9177-1696a144b2d8/doc/011E815F-795F-4344-89FA-8393D9932E81/A9CFF7EA-50D2-447E-9386-C2061A451C66_2/urYQqvHfXyspPUe0dvyyTkFrgeLKwa2xxxuzhWQByLMz/Image.png)
 
 They claim this higher index is becayse of moisture absorption, which maybe the other paper did not see?
 
