@@ -18,7 +18,7 @@ Focus: **physics-based computing** — building and characterizing hardware (pho
 ## Notable work / output
 
 - 2D-programmable lithium-niobate waveguide for [[optical-neural-network|ONN]] inference — [[2d-programmable-linear-waveguide-mcmahon]].
-- 2D-programmable SiN waveguide with electric-field-induced χ⁽²⁾ for nonlinear optics — [[2d-programmable-nonlinear-waveguide-mcmahon]].
+- 2D-programmable [[silicon-nitride|SiN]] waveguide with electric-field-induced χ⁽²⁾ for nonlinear optics — [[2d-programmable-nonlinear-waveguide-mcmahon]].
 - Long-running themes: **physics-aware training** (hybrid in-situ–in-silico backprop), neuromorphic photonics, optical Ising machines.
 
 ## Relationships

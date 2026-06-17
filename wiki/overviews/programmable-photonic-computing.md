@@ -18,12 +18,12 @@ Three layers fit together:
 
 - **The programming primitive:** [[photoconductive-gain-programming]]. A photoconductor between bias electrodes lets a single uniform high voltage be optically "switched in" to thousands of independent regions at once, bypassing the O(N²) wiring bottleneck of CMOS-backplane-driven photonic chips.
 - **The linear arm:** [[2d-programmable-linear-waveguide-mcmahon]] applies the primitive to a [[lithium-niobate]] slab via the [[electro-optic-effect|Pockels effect]] to program a refractive-index distribution Δn(x, z). The programmed pattern is a trainable parameter for an [[optical-neural-network|optical neural network]]; demonstrated up to 49-dim inputs (vowel classification, MNIST) with **N^1.5** chip-area scaling vs **N²** for MZI meshes.
-- **The nonlinear arm:** [[2d-programmable-nonlinear-waveguide-mcmahon]] applies the primitive to a silicon-nitride slab via electric-field-induced χ⁽²⁾ to program an arbitrary 2D distribution of nonlinearity. Demonstrated programmable [[quasi-phase-matching|QPM]] gratings for [[second-harmonic-generation|SHG]], with spectral, spatial, and spatio-spectral engineering, plus in-situ inverse design and real-time feedback against environmental drift.
+- **The nonlinear arm:** [[2d-programmable-nonlinear-waveguide-mcmahon]] applies the primitive to a [[silicon-nitride]] slab via electric-field-induced χ⁽²⁾ to program an arbitrary 2D distribution of nonlinearity. Demonstrated programmable [[quasi-phase-matching|QPM]] gratings for [[second-harmonic-generation|SHG]], with spectral, spatial, and spatio-spectral engineering, plus in-situ inverse design and real-time feedback against environmental drift.
 
 ## Key axes
 
 - **What is programmed:** refractive index (linear) vs χ⁽²⁾ nonlinearity (nonlinear).
-- **Substrate:** lithium niobate (linear; intrinsic Pockels) vs silicon nitride (nonlinear; induced χ⁽²⁾).
+- **Substrate:** lithium niobate (linear; intrinsic Pockels) vs [[silicon-nitride]] (nonlinear; induced χ⁽²⁾).
 - **Target application:** linear MVMs / inference (linear arm) vs frequency conversion, quantum light, NLO signal processing (nonlinear arm).
 - **Programming-rate ceiling:** ~3 Hz (linear) and ~1 Hz (nonlinear) demonstrated — projector- and RC-limited.
 - **Comparison to alternatives:** [[programmable-photonic-waveguide]]'s "Trade-offs / Contrasts with" lists how this stacks up against [[optical-neural-network|MZI meshes]], microring banks, phase-change cells, free-space diffractive ONNs, and historical photorefractive slabs.

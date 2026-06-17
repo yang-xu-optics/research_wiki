@@ -12,12 +12,12 @@ tags: [photonics, nonlinear-optics, programmable-waveguide, silicon-nitride, qua
 
 # Programmable on-chip nonlinear photonics
 
-> First demonstration of a **programmable 2D χ⁽²⁾ distribution** on a silicon-nitride slab waveguide — arbitrary in-situ quasi-phase-matching gratings for second-harmonic generation, including real-time feedback against environmental drift — Nature Vol 649, 8 Jan 2026, pp. 330–. Companion to [[2d-programmable-linear-waveguide-mcmahon]] from the same group; the *nonlinear* counterpart.
+> First demonstration of a **programmable 2D χ⁽²⁾ distribution** on a [[silicon-nitride|silicon nitride]] slab waveguide — arbitrary in-situ quasi-phase-matching gratings for second-harmonic generation, including real-time feedback against environmental drift — Nature Vol 649, 8 Jan 2026, pp. 330–. Companion to [[2d-programmable-linear-waveguide-mcmahon]] from the same group; the *nonlinear* counterpart.
 
 ## TL;DR
 
 - Same programming trick as the linear paper ([[photoconductive-gain-programming]]) — patterned green light → photoconductor → spatial bias field — but instead of programming refractive index, it programs the **second-order nonlinearity χ⁽²⁾(x, z)** via electric-field-induced χ⁽²⁾ (i.e. 3χ⁽³⁾ E_bias).
-- Substrate is **silicon nitride (SiN)** rather than lithium niobate. The χ⁽²⁾ here is *induced*, not intrinsic — SiN is centrosymmetric.
+- Substrate is **[[silicon-nitride|silicon nitride (SiN)]]** rather than lithium niobate. The χ⁽²⁾ here is *induced*, not intrinsic — SiN is centrosymmetric.
 - Programmable [[quasi-phase-matching]] (QPM) gratings in 2D enable arbitrary control of **broadband [[second-harmonic-generation]]** — spectral shape, spatial output mode, and joint spatio-spectral structure.
 - Demonstrated **real-time feedback** that compensates for pump-wavelength random walk by retuning the QPM grating period — breaks the "one device, one function, fixed at fab" model.
 - Demonstrated **in-situ inverse design**: optimize the QPM grating on the chip itself against the measured response — robust to fabrication imperfections.
@@ -27,7 +27,7 @@ tags: [photonics, nonlinear-optics, programmable-waveguide, silicon-nitride, qua
 ## Key claims
 
 - **Nonlinear photonics has been "one-device, one-function" by necessity.** χ⁽²⁾ structure has to be sculpted by nanofabrication (periodically poled lithium niobate, orientation-patterned epitaxy). Each chip serves one wavelength / function and is sensitive to fab and environment.
-- **Electric-field-induced χ⁽²⁾** lets a centrosymmetric material like SiN host a programmable χ⁽²⁾, with the program living in a control field rather than the crystal.
+- **Electric-field-induced χ⁽²⁾** lets a centrosymmetric material like [[silicon-nitride|SiN]] host a programmable χ⁽²⁾, with the program living in a control field rather than the crystal.
 - **Photoconductive virtual electrodes** allow that control field to be patterned in 2D with thousands of effective DOF, without lithography of electrode arrays. Same core idea as the linear paper, applied to a different physical effect (χ⁽²⁾ vs Δn).
 - **2D programmability of χ⁽²⁾** — not just 1D longitudinal periodic poling — is the new capability. Prior reconfigurable QPM was limited to 1D geometries.
 - **Three engineering knobs demonstrated:** spectral (vary period along z), spatial (vary transverse structure), spatio-spectral (vary both).

@@ -22,7 +22,7 @@ Stack: substrate (also serves as ground electrode) → optical waveguide → pho
 1. In the dark, the photoconductor has high impedance; most of the bias voltage drops across it; very little reaches the waveguide.
 2. Where a projected light pattern illuminates the photoconductor, its impedance drops sharply. The voltage divider shifts: most of the bias now drops across the waveguide in that region.
 3. The result is a spatially patterned bias electric field E_bias(x, z) inside the waveguide that mirrors the projected illumination pattern.
-4. That spatially varying field modulates an optical property of the waveguide (Δn via [[electro-optic-effect|Pockels]] in lithium niobate; χ⁽²⁾ via electric-field-induced nonlinearity in SiN).
+4. That spatially varying field modulates an optical property of the waveguide (Δn via [[electro-optic-effect|Pockels]] in lithium niobate; χ⁽²⁾ via electric-field-induced nonlinearity in [[silicon-nitride|SiN]]).
 
 **Why it matters:** standard CMOS backplanes can only deliver ~10 V per pixel. The photoconductor lets a single uniform 1,000 V be applied across the stack while still being "switched in" optically at ~10⁴ sites. This is what makes large Δn (~10⁻³) and meaningful χ⁽²⁾ programmability achievable at large N.
 

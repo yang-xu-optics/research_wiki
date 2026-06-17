@@ -2,7 +2,7 @@
 type: concept
 name: "Quasi-phase matching (QPM)"
 aliases: ["QPM", "quasi-phase-matching grating"]
-sources: [[2d-programmable-nonlinear-waveguide-mcmahon]]
+sources: [[2d-programmable-nonlinear-waveguide-mcmahon, type-ii-qpm-superlattice-waveguides-hutchings, periodically-inverted-algaas-waveguides-ota, directionally-induced-qpm-algaas-morais]]
 related: [[second-harmonic-generation, programmable-photonic-waveguide]]
 tags: [nonlinear-optics, photonics]
 ---
@@ -23,6 +23,8 @@ Classic nonlinear-optics result (Armstrong/Bloembergen/Ducuing/Pershan, 1962; ex
 - More elaborate QPM grating structures (chirped, apodized, 2D, holographic) enable bandwidth engineering, pulse shaping, multi-band SHG, and structured second-harmonic outputs.
 
 In [[2d-programmable-nonlinear-waveguide-mcmahon]], the period Λ is set by the spacing of bright stripes in the projected illumination pattern; sweeping Λ tunes the resonant pump wavelength. A measured nominal poling period of 16.65 µm and group-velocity mismatch of −92 fs/mm characterize their device.
+
+In III-V semiconductors, QPM becomes a fabrication and architecture problem because cubic materials like GaAs/AlGaAs cannot be simply periodically poled like ferroelectrics. This batch shows three alternatives: sublattice reversal in periodically inverted AlGaAs, post-growth domain disordering by quantum-well intermixing, and geometry-induced effective QPM in curved waveguides — [[periodically-inverted-algaas-waveguides-ota]], [[type-ii-qpm-superlattice-waveguides-hutchings]], [[directionally-induced-qpm-algaas-morais]].
 
 ## Trade-offs / Contrasts with
 

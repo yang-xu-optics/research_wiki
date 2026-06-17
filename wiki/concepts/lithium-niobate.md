@@ -27,7 +27,7 @@ In the [[2d-programmable-linear-waveguide-mcmahon|McMahon linear paper]], a Z-cu
 ## Trade-offs / Contrasts with
 
 - vs **silicon photonics** — Si lacks both a useful Pockels effect and intrinsic χ⁽²⁾ (centrosymmetric); LN provides both. But Si has cheaper, more mature fab.
-- vs **silicon nitride** — SiN is low-loss and CMOS-compatible but lacks Pockels and χ⁽²⁾; [[2d-programmable-nonlinear-waveguide-mcmahon]] gets around the χ⁽²⁾ gap by *inducing* it electrically.
+- vs [[silicon-nitride]] — SiN is low-loss and CMOS-compatible but lacks Pockels and χ⁽²⁾; [[2d-programmable-nonlinear-waveguide-mcmahon]] gets around the χ⁽²⁾ gap by *inducing* it electrically.
 - vs **III–V semiconductors (InP, GaAs)** — those host gain (lasers) but worse passive losses than LN.
 
 ## Open questions

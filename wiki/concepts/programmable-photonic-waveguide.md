@@ -28,7 +28,7 @@ A slab waveguide is sandwiched between a transparent top electrode and a conduct
 2. The bias voltage applied across the stack drops mostly across the (still-insulating) waveguide in those regions, producing a patterned bias electric field E_bias(x, z) inside the waveguide.
 3. That bias field changes a material property:
    - **Linear case:** via the [[electro-optic-effect|Pockels effect]] in [[lithium-niobate]], the field changes the refractive index by Δn ∝ E_bias.
-   - **Nonlinear case:** via electric-field-induced χ⁽²⁾ in centrosymmetric SiN, χ⁽²⁾(x, z) = 3χ⁽³⁾ E_bias(x, z).
+   - **Nonlinear case:** via electric-field-induced χ⁽²⁾ in centrosymmetric [[silicon-nitride|SiN]], χ⁽²⁾(x, z) = 3χ⁽³⁾ E_bias(x, z).
 4. The optical signal of interest propagates through the slab and "feels" the programmed 2D structure.
 
 A signal beam co-propagates through the slab and is shaped (linearly or nonlinearly) by the programmed pattern. This avoids the O(N²) wiring problem of MZI-mesh photonic neural networks — only one uniform bias electrode is needed; the spatial programming is done optically.

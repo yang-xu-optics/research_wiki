@@ -2,7 +2,7 @@
 type: concept
 name: "Second-harmonic generation (SHG)"
 aliases: ["SHG", "frequency doubling"]
-sources: [[2d-programmable-nonlinear-waveguide-mcmahon]]
+sources: [[2d-programmable-nonlinear-waveguide-mcmahon, ridge-bragg-reflection-waveguide-shg-helmy, femtosecond-shg-algaas-brw-han, algaas-guided-wave-shg-qcl-ozanam, directionally-induced-qpm-algaas-morais]]
 related: [[quasi-phase-matching, programmable-photonic-waveguide]]
 tags: [nonlinear-optics]
 ---
@@ -23,6 +23,8 @@ First observed by Franken et al. (1961) shortly after the invention of the laser
 - The SHG efficiency scales with (χ⁽²⁾)² × L² × pump intensity (in the undepleted-pump regime), so longer interaction lengths, stronger nonlinearity, and tighter mode confinement all help.
 
 In [[2d-programmable-nonlinear-waveguide-mcmahon]], SHG is the demonstration process used to characterize three programmable knobs: spectral (which pump wavelength is doubled), spatial (mode shape of the SH output), and spatio-spectral (joint).
+
+In the III-V batch, SHG acts less like a final application and more like a diagnostic for whether [[semiconductor-phase-matching]] works. BRWs, periodically inverted AlGaAs, domain-disordered QPM, form-birefringent GaAs/AlOx, and directionally induced QPM all use SHG to prove that a strong but non-birefringent semiconductor platform can be made coherently nonlinear — [[ridge-bragg-reflection-waveguide-shg-helmy]], [[femtosecond-shg-algaas-brw-han]], [[periodically-inverted-algaas-waveguides-ota]], [[type-ii-qpm-superlattice-waveguides-hutchings]], [[directionally-induced-qpm-algaas-morais]].
 
 ## Trade-offs / Contrasts with
 
